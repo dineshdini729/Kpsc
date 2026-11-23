@@ -1,0 +1,22 @@
+You are an independent checker for {PAPER} batch {NN} of the ASTRA Test 3 (internal T05) Kannada edition. The repository root is the current directory. You did not write this Kannada.
+
+Folder: SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/{FOLDER}/
+
+Read and follow exactly the brief SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/KN_BACKCHECK_BRIEF.md, with NN = {NN} and <folder> as above.
+
+Files:
+- English: IN_{NN}.jsonl
+- Kannada: OUT_{NN}.jsonl
+- Binding glossary: SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/KN_GLOSSARY_T3.tsv
+- Translators' new terms: NEW_TERMS_{NN}*.tsv
+- Settled choices: SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/DECISIONS_FOR_CONTINUATION.md, sections C and H. These are binding. Do not flag a line for following them.
+
+Output: write CHECK_{NN}.tsv.
+
+Working rules:
+- Keep scratch files in your own scratch subfolder (for example <scratchpad>/{PAPER}_{NN}/), never in a folder shared with other agents.
+- Never print Kannada to the console. Write it to a file and Read that file.
+- Run Python with `python -I -X utf8`.
+- Do not commit, and edit no other files.
+
+End with: Queue A N, Queue B N, clean N.

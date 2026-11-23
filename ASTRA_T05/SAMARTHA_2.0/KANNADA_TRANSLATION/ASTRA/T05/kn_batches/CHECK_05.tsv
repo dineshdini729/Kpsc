@@ -1,0 +1,26 @@
+id	part	line_no	kannada_text	back_translation	problem	suggested_kannada	queue
+T05-CA-FDA-F07	Q	1	ಸೆಪ್ಟೆಂಬರ್ 2026ರಲ್ಲಿ ಶಾಂಘೈನಲ್ಲಿ ನಡೆದ 48ನೇ ವಿಶ್ವ ಕೌಶಲ್ಯ ಸ್ಪರ್ಧೆ (WorldSkills Competition) ಕುರಿತ ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳು ಅದರಲ್ಲಿ ಭಾರತದ ಸಾಧನೆಗೆ ಸಂಬಂಧಿಸಿವೆ:	The following statements about the 48th WorldSkills Competition held in Shanghai in September 2026 relate to India's performance in it:	Unnatural, redundant stem: ಕುರಿತ (about) plus ಸಂಬಂಧಿಸಿವೆ (relate to) with a dangling ಅದರಲ್ಲಿ (in it) reads as a word-for-word build. English: The following statements relate to India's performance at the 48th WorldSkills Competition held in Shanghai in September 2026. Meaning is unchanged; naturalness only.	ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳು ಸೆಪ್ಟೆಂಬರ್ 2026ರಲ್ಲಿ ಶಾಂಘೈನಲ್ಲಿ ನಡೆದ 48ನೇ ವಿಶ್ವ ಕೌಶಲ್ಯ ಸ್ಪರ್ಧೆಯಲ್ಲಿ (WorldSkills Competition) ಭಾರತದ ಸಾಧನೆಗೆ ಸಂಬಂಧಿಸಿವೆ:	B
+T05-CA-FDA-F04	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F11	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F03	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F09	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F06	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F15	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F17	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F10	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F21	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F13	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F18	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F02	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F20	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F14	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F19	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F12	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F05	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F24	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F08	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F25	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F01	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F22	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F23	-	-	-	-	CLEAN	-	-
+T05-CA-FDA-F16	-	-	-	-	CLEAN	-	-

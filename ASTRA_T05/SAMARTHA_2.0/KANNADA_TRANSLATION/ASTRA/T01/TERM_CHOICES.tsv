@@ -1,0 +1,201 @@
+id	english	kannada	source	note
+ALL	Consider the following statements related to X.	X ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಪರಿಗಣಿಸಿ.	KEA_AsstHortDirector_GK_KK_2026-10-06:28; :31; :33	KEA stem pattern; brief rule 2
+ALL	How many of the above statements is/are correct?	ಮೇಲಿನ ಎಷ್ಟು ಹೇಳಿಕೆ/ಗಳು ಸರಿಯಾಗಿದೆ/ವೆ?	KEA_AsstHortDirector_GK_KK_2026-10-06:12	FDA-Q16 (no is/are in English) uses ಮೇಲಿನ ಎಷ್ಟು ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ?
+ALL	All of them / Only three / Only two / Only one of them	ಎಲ್ಲವೂ / ಮೂರು ಮಾತ್ರ / ಎರಡು ಮಾತ್ರ / ಒಂದು ಮಾತ್ರ	KEA_AsstHortDirector_GK_KK_2026-10-06:21	same four forms in every how-many item, so no option reads more naturally than another
+ALL	Select the correct answer using the codes given below:	ಕೆಳಗೆ ನೀಡಿರುವ ಸಂಕೇತಗಳನ್ನು ಬಳಸಿ ಸರಿಯಾದ ಉತ್ತರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:	brief rule 2; KEA_AsstHortDirector_GK_KK_2026-10-06:13	
+ALL	(a) and (b) only / (a) only	(a) ಮತ್ತು (b) ಮಾತ್ರ / (a) ಮಾತ್ರ	KEA_AsstHortDirector_GK_KK_2026-10-06:28	
+ALL	Match the following: List-I (X) with List-II (Y)	ಪಟ್ಟಿ-I (X) ನ್ನು ಪಟ್ಟಿ-II (Y) ರೊಂದಿಗೆ ಹೊಂದಿಸಿ:	KEA_AsstHortDirector_GK_KK_2026-10-06:65; :74	verb placed last (rule 3a); "Match the following" folded into the one verb
+ALL	Codes:	ಸಂಕೇತಗಳು:	KEA_AsstHortDirector_GK_KK_2026-10-06:62	code strings a-iii etc. unchanged (rule 6)
+ALL	Statement-I / Statement-II	ಹೇಳಿಕೆ-I / ಹೇಳಿಕೆ-II	KEA_AsstHortDirector_GK_KK_2026-10-06:14	
+ALL	Which one of the following is correct with respect to the above statements?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?	KEA_AsstHortDirector_GK_KK_2026-10-06:14	
+ALL	Both I and II are correct / incorrect; I correct but II incorrect	ಹೇಳಿಕೆ-I ಮತ್ತು ಹೇಳಿಕೆ-II ಎರಡೂ ಸರಿ / ತಪ್ಪು; ಹೇಳಿಕೆ-I ಸರಿ, ಆದರೆ ಹೇಳಿಕೆ-II ತಪ್ಪು	KEA_AsstHortDirector_GK_KK_2026-10-06:14; :19; :49	
+ALL	per cent	ಶೇ.	KEA_AsstHortDirector_GK_KK_2026-10-06:28 (ಶೇ.40)	
+ALL	July 2026 / 1 April 2026	ಜುಲೈ 2026ರಲ್ಲಿ / 1 ಏಪ್ರಿಲ್ 2026ರಂದು	KEA_AsstHortDirector_GK_KK_2026-10-06:26 (ಮಾರ್ಚ್ 2026ರಲ್ಲಿ); brief rule 5	Gangadhar writes 2023ರ ಅಕ್ಟೋಬರ್ 12ರಂದು (p0223) but rule 5 binds KEA's order
+ALL	was held / took place	ಜರುಗಿತು / ನಡೆಯಿತು	Gangadhar p0223	
+ALL	presided over	ಅಧ್ಯಕ್ಷತೆಯನ್ನು ... ವಹಿಸಿದ್ದರು	Gangadhar p0223	FDA-Q18(d), SDA-Q23(d)
+ALL	came into force / commenced	ಜಾರಿಗೆ ಬಂದಿತು	Gangadhar p0120	FDA-Q02(a), FDA-Q09(a)
+ALL	launched (scheme)	ಚಾಲನೆ ನೀಡಲಾಯಿತು / ಆರಂಭಿಸಿದ	Garani p0347	FDA-Q24(a)
+ALL	became the first ...	... ಎನಿಸಿಕೊಂಡರು	Gangadhar p0187	FDA-Q16(a), SDA-Q22
+ALL	gold / silver (medal)	ಚಿನ್ನದ ಪದಕ / ಬೆಳ್ಳಿ ಪದಕ	standard	
+T01-FDA-Q01	72nd National Film Awards	72ನೇ ರಾಷ್ಟ್ರೀಯ ಚಲನಚಿತ್ರ ಪ್ರಶಸ್ತಿಗಳು	standard	
+T01-FDA-Q01	Best Feature Film / Best Non-Feature Film	ಅತ್ಯುತ್ತಮ ಕಥಾಚಿತ್ರ / ಅತ್ಯುತ್ತಮ ಕಥೇತರ ಚಿತ್ರ	standard	
+T01-FDA-Q01	Bhangaar; IMBU; Article 370; Mithya	ಭಂಗಾರ್ (Bhangaar); ಇಂಬು (IMBU); ಆರ್ಟಿಕಲ್ 370 (Article 370); ಮಿಥ್ಯ (Mithya)	brief rule 4	all four film titles bracketed alike (rule 7)
+T01-FDA-Q02	Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM-G)	ವಿಕಸಿತ ಭಾರತ – ರೋಜ್‌ಗಾರ್ ಮತ್ತು ಆಜೀವಿಕಾ ಖಾತರಿ ಮಿಷನ್ (ಗ್ರಾಮೀಣ) (VB-G RAM-G)	standard	no official Kannada form found in repository sources; 'Guarantee' rendered ಖಾತರಿ as in ಉದ್ಯೋಗ ಖಾತರಿ (Garani p0103)
+T01-FDA-Q02	MGNREGS / MGNREGA	MGNREGS (ಮಹಾತ್ಮ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಉದ್ಯೋಗ ಖಾತರಿ ಯೋಜನೆ) / MGNREGA (... ಕಾಯ್ದೆ)	Garani p0103 (ಉದ್ಯೋಗ ಖಾತರಿ); Gangadhar p0120 (ಕಾಯ್ದೆ)	
+T01-FDA-Q02	interim allocation	ಮಧ್ಯಂತರ ಹಂಚಿಕೆ	REFERENCE_LIST_FINAL 'Fund Allocation' (ಅನುದಾನ ಹಂಚಿಕೆ) consulted	ಅನುದಾನ not added: the English does not say what is allocated
+T01-FDA-Q02	daily wage rate	ದಿನಗೂಲಿ ದರ	Garani p0104 (ಕೂಲಿ ದರ)	
+T01-FDA-Q02	Section 27	ಸೆಕ್ಷನ್ 27	Gangadhar p0076; p0266	first draft had ಪ್ರಕರಣ; changed to the book's form
+T01-FDA-Q02	funds	ಅನುದಾನ	REFERENCE_LIST_FINAL 'Available Fund' (ಲಭ್ಯವಿರುವ ಅನುದಾನ)	
+T01-FDA-Q03	Ministry of Earth Sciences	ಭೂ ವಿಜ್ಞಾನ ಸಚಿವಾಲಯ	standard; Gangadhar ಸಚಿವಾಲಯ usage p0037	
+T01-FDA-Q03	Secretariat (Perth-based)	ಪರ್ತ್ ಮೂಲದ ಕಾರ್ಯಾಲಯ (Secretariat)	standard	ಸಚಿವಾಲಯ avoided: it would clash with Ministry in the same sentence
+T01-FDA-Q03	IOTWMS	ಹಿಂದೂ ಮಹಾಸಾಗರ ಸುನಾಮಿ ಎಚ್ಚರಿಕೆ ಮತ್ತು ಉಪಶಮನ ವ್ಯವಸ್ಥೆ (IOTWMS)	brief rule 4 example	English gives full form then acronym, so Kannada full form then acronym
+T01-FDA-Q03	RIMES; GOOS; IORA	ಪ್ರಾದೇಶಿಕ ಸಮಗ್ರ ಬಹು-ಅಪಾಯ ಮುನ್ನೆಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆ (RIMES); ಜಾಗತಿಕ ಸಾಗರ ವೀಕ್ಷಣಾ ವ್ಯವಸ್ಥೆ (GOOS); ಹಿಂದೂ ಮಹಾಸಾಗರ ಅಂಚಿನ ಸಂಘ (IORA)	standard	same pattern on all four options
+T01-FDA-Q04	State Visit	ಸರ್ಕಾರಿ ಭೇಟಿ (State Visit)	standard	
+T01-FDA-Q04	Moldova; North Macedonia; Romania	ಮಾಲ್ಡೋವಾ; ಉತ್ತರ ಮ್ಯಾಸಿಡೋನಿಯಾ; ರೊಮೇನಿಯಾ	standard	
+T01-FDA-Q04	first-ever visit by an Indian President	ಭಾರತದ ರಾಷ್ಟ್ರಪತಿಯೊಬ್ಬರು ಭೇಟಿ ನೀಡಿದ್ದು ಇದೇ ಮೊದಲು	Gangadhar p0223 (ಇದೇ ಪ್ರಥಮ ಬಾರಿಗೆ); p0037	idiom in place of the calque ಮೊಟ್ಟಮೊದಲ ಭೇಟಿಯಾಗಿತ್ತು
+T01-FDA-Q05	Air Force Station Jalahalli	ಜಾಲಹಳ್ಳಿ ವಾಯುಪಡೆ ನಿಲ್ದಾಣ	Gangadhar p0187 (ವಾಯುಪಡೆ)	
+T01-FDA-Q05	Marshal of the Air Force Arjan Singh Memorial Hockey Tournament (7th)	ವಾಯುಪಡೆಯ ಮಾರ್ಷಲ್ ಅರ್ಜನ್ ಸಿಂಗ್ ಸ್ಮಾರಕ 7ನೇ ಹಾಕಿ ಪಂದ್ಯಾವಳಿ	standard	ordinal moved next to ಹಾಕಿ ಪಂದ್ಯಾವಳಿ so it cannot read as '7th Air Force'
+T01-FDA-Q05	Indian Navy / Indian Army / Indian Air Force	ಭಾರತೀಯ ನೌಕಾಪಡೆ / ಭಾರತೀಯ ಭೂಸೇನೆ / ಭಾರತೀಯ ವಾಯುಪಡೆ	Gangadhar p0187	
+T01-FDA-Q05	Railway Sports Promotion Board	ರೈಲ್ವೆ ಕ್ರೀಡಾ ಉತ್ತೇಜನ ಮಂಡಳಿ	standard	
+T01-FDA-Q06	Skyroot Aerospace; Mission Aagaman; Embrace	ಸ್ಕೈರೂಟ್ ಏರೋಸ್ಪೇಸ್ (Skyroot Aerospace); 'ಮಿಷನ್ ಆಗಮನ್' (Mission Aagaman); 'ಎಂಬ್ರೇಸ್' (Embrace)	brief rule 4	
+T01-FDA-Q06	launch mission	ಉಡಾವಣಾ ಕಾರ್ಯಾಚರಣೆ	standard	
+T01-FDA-Q06	payload; Low Earth Orbit; orbital debris; robotic arm	ಪೇಲೋಡ್; ಕೆಳ ಭೂಕಕ್ಷೆ (Low Earth Orbit); ಕಕ್ಷೆಯಲ್ಲಿನ ಅವಶೇಷಗಳು (orbital debris); ರೋಬೋಟಿಕ್ ತೋಳು	standard	
+T01-FDA-Q07	Operation Vajra	'ಆಪರೇಷನ್ ವಜ್ರ' (Operation Vajra)	brief rule 4	
+T01-FDA-Q07	meant for diversion abroad	ವಿದೇಶಕ್ಕೆ ಅಕ್ರಮವಾಗಿ ರವಾನಿಸಲು ಉದ್ದೇಶಿಸಿದ್ದ	standard	'diversion' in drug control means illicit redirection; ಅಕ್ರಮವಾಗಿ states that sense. Flagged for owner review
+T01-FDA-Q07	seizure; an arrest	ವಶಪಡಿಸಿಕೊಳ್ಳಲಾಯಿತು; ಒಬ್ಬರನ್ನು ಬಂಧಿಸಲಾಯಿತು	standard	'an arrest' = one arrest
+T01-FDA-Q07	drug	ಮಾದಕ ವಸ್ತು	standard	
+T01-FDA-Q07	Narcotics Control Bureau	ಮಾದಕ ದ್ರವ್ಯ ನಿಯಂತ್ರಣ ಬ್ಯೂರೋ	standard	same form in SDA-Q02
+T01-FDA-Q07	Central Bureau of Narcotics	ಕೇಂದ್ರ ಮಾದಕ ದ್ರವ್ಯ ಬ್ಯೂರೋ	standard	kept distinct from NCB
+T01-FDA-Q07	Directorate of Revenue Intelligence	ಕಂದಾಯ ಗುಪ್ತಚರ ನಿರ್ದೇಶನಾಲಯ	standard	
+T01-FDA-Q07	Tramadol Hydrochloride; Mephedrone; codeine-based cough syrup	ಟ್ರಮಾಡಾಲ್ ಹೈಡ್ರೋಕ್ಲೋರೈಡ್; ಮೆಫೆಡ್ರೋನ್; ಕೊಡೀನ್ ಆಧಾರಿತ ಕೆಮ್ಮಿನ ಸಿರಪ್	standard	
+T01-FDA-Q08	Ministry of Development of North Eastern Region	ಈಶಾನ್ಯ ಪ್ರದೇಶ ಅಭಿವೃದ್ಧಿ ಸಚಿವಾಲಯ	standard	
+T01-FDA-Q08	Mission Golden Spice	'ಮಿಷನ್ ಗೋಲ್ಡನ್ ಸ್ಪೈಸ್' (Mission Golden Spice)	brief rule 4	
+T01-FDA-Q08	GI-tagged	GI (ಭೌಗೋಳಿಕ ಸೂಚಕ) ಟ್ಯಾಗ್ ಹೊಂದಿರುವ	Garani p0397	
+T01-FDA-Q08	value-chain project	ಮೌಲ್ಯ ಸರಪಳಿ ಯೋಜನೆ	Garani p0177	
+T01-FDA-Q08	Large cardamom; Lakadong turmeric; Erode turmeric; Karbi Anglong ginger	ದೊಡ್ಡ ಏಲಕ್ಕಿ; ಲಕಡಾಂಗ್ ಅರಿಶಿನ; ಈರೋಡ್ ಅರಿಶಿನ; ಕಾರ್ಬಿ ಆಂಗ್ಲಾಂಗ್ ಶುಂಠಿ	standard; REFERENCE_LIST_FINAL 'Spice Crops' consulted	
+T01-FDA-Q08	Sikkim; Meghalaya; Tamil Nadu; Assam	ಸಿಕ್ಕಿಂ; ಮೇಘಾಲಯ; ತಮಿಳುನಾಡು; ಅಸ್ಸಾಂ	Ranganath 07 p0010; p0011	
+T01-FDA-Q09	India–UK Comprehensive Economic and Trade Agreement (CETA)	ಭಾರತ–ಯುಕೆ ಸಮಗ್ರ ಆರ್ಥಿಕ ಮತ್ತು ವ್ಯಾಪಾರ ಒಪ್ಪಂದ (CETA)	Garani p0007 (ಮುಕ್ತ ವ್ಯಾಪಾರ ಒಪ್ಪಂದ); Gangadhar ಒಪ್ಪಂದ	
+T01-FDA-Q09	Agreement on Social Security; double contributions	ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಒಪ್ಪಂದ; ಎರಡು ಬಾರಿ ವಂತಿಗೆ ಪಾವತಿಸುವುದು	standard	ದ್ವಿಗುಣ avoided: it means 'doubled amount', not 'paid twice'
+T01-FDA-Q09	temporary assignments; professionals	ತಾತ್ಕಾಲಿಕ ನಿಯೋಜನೆ; ವೃತ್ತಿಪರರು	standard	
+T01-FDA-Q09	Certificates of Origin; eCoO 2.0 platform	ಮೂಲ ಪ್ರಮಾಣಪತ್ರಗಳು (Certificates of Origin); eCoO 2.0 ವೇದಿಕೆ	standard	
+T01-FDA-Q09	tariff concessions; tariff lines	ಸುಂಕ ರಿಯಾಯಿತಿ; ಸುಂಕ ಸಾಲುಗಳು (tariff lines)	Garani p0018 (ಸುಂಕ)	
+T01-FDA-Q10	Artificial Intelligence (AI)	ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ (AI)	REFERENCE_LIST_FINAL 'AI'	
+T01-FDA-Q10	University	ವಿಶ್ವವಿದ್ಯಾಲಯ	REFERENCE_LIST_FINAL 'Universities'	
+T01-FDA-Q10	proposed government-led	ಸರ್ಕಾರದ ನೇತೃತ್ವದಲ್ಲಿ ಸ್ಥಾಪಿಸಲು ಉದ್ದೇಶಿಸಿರುವ	Gangadhar p0490 (ನೇತೃತ್ವದ)	
+T01-FDA-Q10	Chief Minister	ಮುಖ್ಯಮಂತ್ರಿಯವರು	Gangadhar p0300	
+T01-FDA-Q10	BIEC	BIEC (ಬೆಂಗಳೂರು ಅಂತರರಾಷ್ಟ್ರೀಯ ಪ್ರದರ್ಶನ ಕೇಂದ್ರ)	standard	
+T01-FDA-Q10	Google I/O Connect India	'ಗೂಗಲ್ I/O ಕನೆಕ್ಟ್ ಇಂಡಿಯಾ' (Google I/O Connect India)	brief rule 4	
+T01-FDA-Q10	start-ups; incubation centre; AI Hub	ನವೋದ್ಯಮಗಳು (ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳು); ಇನ್‌ಕ್ಯುಬೇಷನ್ ಕೇಂದ್ರ; AI ಹಬ್	Garani p0233 (ನವೋದ್ಯಮ)	
+T01-FDA-Q10	AI-native state; stated ambition	'AI-ನೇಟಿವ್ ರಾಜ್ಯ' (AI-native state); ಘೋಷಿತ ಆಶಯ	standard	
+T01-FDA-Q10	software exports	ಸಾಫ್ಟ್‌ವೇರ್ ರಫ್ತು	Garani p0006 (ರಫ್ತು)	'contributes about 60 per cent' rendered as share (ಪಾಲು ... ಶೇ. 60ರಷ್ಟಿದೆ)
+T01-FDA-Q11	Index of Core Industries; core industry	ಮೂಲ ಕೈಗಾರಿಕೆಗಳ ಸೂಚ್ಯಂಕ (Index of Core Industries); ಮೂಲ ಕೈಗಾರಿಕೆ	Garani p0180	
+T01-FDA-Q11	base year	ಆಧಾರ ವರ್ಷ	Garani p0323	
+T01-FDA-Q11	MoSPI; National Statistics Office	MoSPI (ಸಾಂಖ್ಯಿಕ ಮತ್ತು ಕಾರ್ಯಕ್ರಮ ಅನುಷ್ಠಾನ ಸಚಿವಾಲಯ); ರಾಷ್ಟ್ರೀಯ ಸಾಂಖ್ಯಿಕ ಕಚೇರಿ	Garani p0048	
+T01-FDA-Q11	iron ore	ಕಬ್ಬಿಣದ ಅದಿರು	KEA_AsstHortDirector_GK_KK_2026-10-06:20 (ಕಬ್ಬಿಣದ ಅದಿರಿನ)	
+T01-FDA-Q12	Department of Telecommunications	ದೂರಸಂಪರ್ಕ ಇಲಾಖೆ	standard	
+T01-FDA-Q12	Samriddh Gram	'ಸಮೃದ್ಧ ಗ್ರಾಮ' (Samriddh Gram)	brief rule 4	
+T01-FDA-Q12	WSIS Prizes; Action Line C6 – Enabling Environment; Global Winner	WSIS (ಮಾಹಿತಿ ಸಮಾಜ ಕುರಿತ ವಿಶ್ವ ಶೃಂಗಸಭೆ) ಪ್ರಶಸ್ತಿಗಳು; ಆಕ್ಷನ್ ಲೈನ್ C6 – ಅನುಕೂಲಕರ ವಾತಾವರಣ (Enabling Environment); ಜಾಗತಿಕ ವಿಜೇತ	Gangadhar p0223 (ಶೃಂಗಸಭೆ)	
+T01-FDA-Q12	UNESCO	UNESCO (ವಿಶ್ವಸಂಸ್ಥೆಯ ಶೈಕ್ಷಣಿಕ, ವೈಜ್ಞಾನಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಸಂಸ್ಥೆ)	standard	expansion does not point to ITU, so no leak
+T01-FDA-Q13	posts they took up	ಅಧಿಕಾರ ವಹಿಸಿಕೊಂಡ ಹುದ್ದೆಗಳು	Gangadhar p0187	
+T01-FDA-Q13	Vice Chief of the Army Staff; Vice Chief of the Air Staff	ಭೂಸೇನಾ ಉಪ ಮುಖ್ಯಸ್ಥರು; ವಾಯುಪಡೆಯ ಉಪ ಮುಖ್ಯಸ್ಥರು	Gangadhar p0187 (ಭೂಸೇನಾ ಮುಖ್ಯಸ್ಥ)	
+T01-FDA-Q13	Lt Gen; Air Marshal	ಲೆಫ್ಟಿನೆಂಟ್ ಜನರಲ್; ಏರ್ ಮಾರ್ಷಲ್	Gangadhar p0187 (ಲೆಫ್ಟಿನೆಂಟ್ ಜನರಲ್; ಏರ್ ಚೀಫ್ ಮಾರ್ಷಲ್)	
+T01-FDA-Q13	GOC-in-C, South Western Command / Southern Command	ನೈಋತ್ಯ ಕಮಾಂಡ್‌ನ GOC-in-C (ಜನರಲ್ ಆಫೀಸರ್ ಕಮಾಂಡಿಂಗ್-ಇನ್-ಚೀಫ್) / ದಕ್ಷಿಣ ಕಮಾಂಡ್‌ನ GOC-in-C	standard	no Kannada-word expansion in use; transliterated
+T01-FDA-Q13	INCORRECT (capitals)	**ತಪ್ಪಾಗಿವೆ**	KEA_AsstHortDirector_GK_KK_2026-10-06:51 (ತಪ್ಪಾದ ಜೋಡಣೆ)	English capitals carried as markdown bold
+T01-FDA-Q13	All the four	ಎಲ್ಲಾ ನಾಲ್ಕು	KEA_AsstHortDirector_GK_KK_2026-10-06:31	
+T01-FDA-Q14	CCEA	CCEA (ಸಚಿವ ಸಂಪುಟದ ಆರ್ಥಿಕ ವ್ಯವಹಾರಗಳ ಸಮಿತಿ)	Gangadhar p0220	
+T01-FDA-Q14	PMGKAY	PMGKAY (ಪ್ರಧಾನ ಮಂತ್ರಿ ಗರೀಬ್ ಕಲ್ಯಾಣ್ ಅನ್ನ ಯೋಜನೆ)	standard; REFERENCE_LIST_FINAL 'AAY' (ಅಂತ್ಯೋದಯ ಅನ್ನ ಯೋಜನೆ) pattern	
+T01-FDA-Q14	revised specifications	ಪರಿಷ್ಕೃತ ಮಾನದಂಡಗಳು	standard	
+T01-FDA-Q14	raw rice; parboiled rice	ಬೆಳ್ತಿಗೆ ಅಕ್ಕಿ (raw rice); ಕುಸುಬಲಕ್ಕಿ (parboiled rice)	standard (Karnataka usage)	English kept in brackets on both so neither reads more familiar than the other
+T01-FDA-Q14	broken grains; permissible limits	ನುಚ್ಚು (broken grains); ಅನುಮತಿಸಲಾದ ಮಿತಿಗಳು	standard	
+T01-FDA-Q15	BRICS; India's Chairship	BRICS; ಭಾರತದ ಅಧ್ಯಕ್ಷತೆ	Gangadhar p0223 (ಅಧ್ಯಕ್ಷತೆ)	BRICS left unexpanded: membership has outgrown the five-country expansion
+T01-FDA-Q15	Women Ministerial Meeting; Health Ministers' Meeting; Culture Working Group; Transport Ministers' Meeting; Venue	ಮಹಿಳಾ ಸಚಿವರ ಸಭೆ; ಆರೋಗ್ಯ ಸಚಿವರ ಸಭೆ; ಸಂಸ್ಕೃತಿ ಕಾರ್ಯ ಗುಂಪಿನ ಸಭೆ; ಸಾರಿಗೆ ಸಚಿವರ ಸಭೆ; ಸ್ಥಳ	standard	
+T01-FDA-Q15	Varanasi; Nagpur; Chandigarh; Kochi	ವಾರಾಣಸಿ; ನಾಗಪುರ; ಚಂಡೀಗಢ; ಕೊಚ್ಚಿ	Ranganath 07 p0264; p0031; p0300	book has ಕೊಚ್ಚಿನ್ (p0194); the current city name ಕೊಚ್ಚಿ kept
+T01-FDA-Q16	Commonwealth Games 2026, Glasgow	2026ರಲ್ಲಿ ಗ್ಲಾಸ್ಗೋದಲ್ಲಿ ನಡೆದ ಕಾಮನ್‌ವೆಲ್ತ್ ಕ್ರೀಡಾಕೂಟ	standard	
+T01-FDA-Q16	para-athlete; athletics	ಪ್ಯಾರಾ-ಅಥ್ಲೀಟ್; ಅಥ್ಲೆಟಿಕ್ಸ್	standard	
+T01-FDA-Q16	Women's Shot Put F57	ಮಹಿಳೆಯರ ಗುಂಡು ಎಸೆತ (Shot Put) F57	standard (textbook Kannada)	
+T01-FDA-Q16	Clean and Jerk; weightlifting; Men's 10,000 m	ಕ್ಲೀನ್ ಅಂಡ್ ಜರ್ಕ್; ವೇಟ್‌ಲಿಫ್ಟಿಂಗ್; ಪುರುಷರ 10,000 ಮೀ. ಓಟ	standard	
+T01-FDA-Q16	Dilip Mahadu Gavit; Sharmila; Valluri Ajaya Babu; Harjinder Kaur; Gulveer	ದಿಲೀಪ್ ಮಹಾದು ಗಾವಿತ್; ಶರ್ಮಿಳಾ; ವಲ್ಲೂರಿ ಅಜಯ ಬಾಬು; ಹರ್ಜಿಂದರ್ ಕೌರ್; ಗುಲ್ವೀರ್	standard	
+T01-FDA-Q17	Foreign Contribution (Regulation) framework	ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ಚೌಕಟ್ಟು	Gangadhar p0036 (ವಿದೇಶಿ)	
+T01-FDA-Q17	administrative expenses; capped at	ಆಡಳಿತಾತ್ಮಕ ವೆಚ್ಚಗಳು; ಗರಿಷ್ಠ ಪಾಲು	standard	
+T01-FDA-Q17	amended	ತಿದ್ದುಪಡಿಯಾದ	Gangadhar p0120	
+T01-FDA-Q18	commissioned	ನೌಕಾಪಡೆಗೆ ಸೇರ್ಪಡೆಗೊಳಿಸಲಾದ (commissioned)	standard (Kannada press idiom)	
+T01-FDA-Q18	INS Malvan; Karwar	INS ಮಾಲ್ವನ್ (INS Malvan); ಕಾರವಾರ	Ranganath 07 p0268	
+T01-FDA-Q18	Garden Reach Shipbuilders and Engineers, Kolkata	ಕೋಲ್ಕತ್ತಾದ ಗಾರ್ಡನ್ ರೀಚ್ ಶಿಪ್‌ಬಿಲ್ಡರ್ಸ್ ಅಂಡ್ ಎಂಜಿನಿಯರ್ಸ್ ಸಂಸ್ಥೆ	Ranganath 07 p0253	
+T01-FDA-Q18	Mahe-class Anti-Submarine Warfare Shallow Water Craft	ಮಾಹೆ ವರ್ಗದ, ಆಳವಿಲ್ಲದ ನೀರಿನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಜಲಾಂತರ್ಗಾಮಿ ನಿರೋಧಕ ಯುದ್ಧನೌಕೆ (Anti-Submarine Warfare Shallow Water Craft)	standard	
+T01-FDA-Q18	Chief of the Naval Staff	ನೌಕಾಪಡೆಯ ಮುಖ್ಯಸ್ಥರು	Gangadhar p0187	
+T01-FDA-Q19	Union Cabinet; approved continuation	ಕೇಂದ್ರ ಸಚಿವ ಸಂಪುಟ; ಮುಂದುವರಿಸಲು ಅನುಮೋದನೆ ನೀಡಿದ	Gangadhar p0490	
+T01-FDA-Q19	PM-KISAN	PM-KISAN (ಪ್ರಧಾನ ಮಂತ್ರಿ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ)	standard	Garani p0170 prints ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೃಷಿ ಸಮ್ಮಾನ್ ಯೋಜನೆ, a garble of the official name; not followed
+T01-FDA-Q19	approved outlay	₹... ವೆಚ್ಚಕ್ಕೆ ಅನುಮೋದನೆ	REFERENCE_LIST_FINAL 'Approved Cost as per action plan' (ಅನುಮೋದಿತ ವೆಚ್ಚ)	
+T01-FDA-Q19	two equal instalments	ಎರಡು ಸಮಾನ ಕಂತುಗಳಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ	Garani p0170	
+T01-FDA-Q19	DMEO of NITI Aayog; evaluated	ನೀತಿ ಆಯೋಗದ DMEO (ಅಭಿವೃದ್ಧಿ ಮೇಲ್ವಿಚಾರಣೆ ಮತ್ತು ಮೌಲ್ಯಮಾಪನ ಕಚೇರಿ); ಮೌಲ್ಯಮಾಪನ	Gangadhar p0209 (ನೀತಿ ಆಯೋಗ)	
+T01-FDA-Q20	Kargil Vijay Diwas; codenamed	ಕಾರ್ಗಿಲ್ ವಿಜಯ ದಿವಸ; ಸಂಕೇತನಾಮ	standard	
+T01-FDA-Q20	Operation Badr; Safed Sagar; Vijay; Meghdoot	ಆಪರೇಷನ್ ಬದ್ರ್; ಆಪರೇಷನ್ ಸಫೇದ್ ಸಾಗರ್; ಆಪರೇಷನ್ ವಿಜಯ್; ಆಪರೇಷನ್ ಮೇಘದೂತ್	standard	all four transliterated alike
+T01-FDA-Q21	India–New Zealand Strategic Partnership: Roadmap to 2030	ಭಾರತ–ನ್ಯೂಜಿಲ್ಯಾಂಡ್ ಕಾರ್ಯತಂತ್ರದ ಪಾಲುದಾರಿಕೆ: 2030ರವರೆಗಿನ ಮಾರ್ಗನಕ್ಷೆ	Gangadhar p0482 (ಪಾಲುದಾರಿಕೆ)	ಮಾರ್ಗನಕ್ಷೆ not ಮಾರ್ಗಸೂಚಿ: Gangadhar uses ಮಾರ್ಗಸೂಚಿ for 'guidelines' (p0189)
+T01-FDA-Q21	Centres of Excellence; kiwifruit	ಶ್ರೇಷ್ಠತಾ ಕೇಂದ್ರಗಳು; ಕಿವಿ ಹಣ್ಣು	REFERENCE_LIST_FINAL 'CoE'; KEA_AsstHortDirector_GK_KK_2026-10-06:64 (ಕಿವಿ ಹಣ್ಣು)	
+T01-FDA-Q21	Himachal Pradesh; Arunachal Pradesh; Sikkim; Uttarakhand; Nagaland	ಹಿಮಾಚಲ ಪ್ರದೇಶ; ಅರುಣಾಚಲ ಪ್ರದೇಶ; ಸಿಕ್ಕಿಂ; ಉತ್ತರಾಖಂಡ; ನಾಗಾಲ್ಯಾಂಡ್	Ranganath 07 p0008; p0010	
+T01-FDA-Q22	Occupancy Certificate	ಸ್ವಾಧೀನಾನುಭವ ಪ್ರಮಾಣಪತ್ರ (Occupancy Certificate)	standard (Karnataka urban-local-body usage)	not found in repository Kannada sources; English kept in brackets
+T01-FDA-Q22	Completion Certificate	ಕಟ್ಟಡ ಪೂರ್ಣಗೊಂಡ ಪ್ರಮಾಣಪತ್ರ (Completion Certificate)	standard	not found in repository Kannada sources
+T01-FDA-Q22	one-time regularisation	ಒಂದು ಬಾರಿ ಸಕ್ರಮಗೊಳಿಸುವ	standard (Karnataka akrama-sakrama usage)	
+T01-FDA-Q22	B-Khata to A-Khata conversion; Bengaluru metropolitan area	ಬಿ-ಖಾತಾವನ್ನು ಎ-ಖಾತಾಗೆ ಪರಿವರ್ತಿಸುವುದು; ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪ್ರದೇಶ	standard (Karnataka usage)	
+T01-FDA-Q22	Neither (a) nor (b)	(a) ಆಗಲೀ (b) ಆಗಲೀ ಅಲ್ಲ	KPSC usage	
+T01-FDA-Q23	National Awards for e-Governance; Gold	ಇ-ಆಡಳಿತಕ್ಕಾಗಿ ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳು; ಚಿನ್ನದ ಪ್ರಶಸ್ತಿ	REFERENCE_LIST_FINAL 'e-Office' (ಇ-ಆಫೀಸ್) pattern	same form in SDA-Q01
+T01-FDA-Q23	ICMR-MINDS	ICMR-MINDS	standard	platform name kept whole; ICMR not expanded inside a product name
+T01-FDA-Q23	AI-enabled platform	AI (ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ) ಆಧಾರಿತ ವೇದಿಕೆ	REFERENCE_LIST_FINAL 'AI'	
+T01-FDA-Q23	mental and substance-use disorders; NCD care; screening and management	ಮಾನಸಿಕ ಮತ್ತು ಮಾದಕ ವಸ್ತು ಬಳಕೆಯ ಅಸ್ವಸ್ಥತೆಗಳು; NCD (ಸಾಂಕ್ರಾಮಿಕವಲ್ಲದ ರೋಗಗಳು) ಆರೈಕೆ; ತಪಾಸಣೆ ಹಾಗೂ ನಿರ್ವಹಣೆ	standard	
+T01-FDA-Q23	maternal and child nutrition; tuberculosis notification; vector-borne diseases surveillance	ತಾಯಿ ಮತ್ತು ಮಗುವಿನ ಪೌಷ್ಟಿಕತೆ; ಕ್ಷಯರೋಗ ಪ್ರಕರಣಗಳ ಅಧಿಸೂಚನೆ; ರೋಗವಾಹಕಗಳಿಂದ ಹರಡುವ ರೋಗಗಳ ಕಣ್ಗಾವಲು	standard	
+T01-FDA-Q24	Modified UDAN scheme	ಮಾರ್ಪಡಿಸಿದ UDAN (ಉಡೇ ದೇಶ್ ಕಾ ಆಮ್ ನಾಗರಿಕ್) ಯೋಜನೆ	Garani p0138 (ಮಾರ್ಪಡಿಸಿದ ... ಯೋಜನೆ); p0347 (ಉಡಾನ್ ಯೋಜನೆ)	
+T01-FDA-Q24	FY	ಆರ್ಥಿಕ ವರ್ಷ	REFERENCE_LIST_FINAL 'Financial year'	
+T01-FDA-Q24	outlay	ವೆಚ್ಚ	REFERENCE_LIST_FINAL 'Approved Cost' (ವೆಚ್ಚ)	
+T01-FDA-Q24	unserved airstrips; airports	ವಿಮಾನ ಸೇವೆ ಇಲ್ಲದ ಏರ್‌ಸ್ಟ್ರಿಪ್‌ಗಳು (unserved airstrips); ವಿಮಾನ ನಿಲ್ದಾಣಗಳು	Garani p0346; p0347	
+T01-FDA-Q25	Qdenga; dengue vaccine	ಕ್ಯೂಡೆಂಗಾ (Qdenga); ಡೆಂಗ್ಯೂ ಲಸಿಕೆ	standard	
+T01-FDA-Q25	CDSCO; marketing authorisation	CDSCO (ಕೇಂದ್ರ ಔಷಧ ಗುಣಮಟ್ಟ ನಿಯಂತ್ರಣ ಸಂಸ್ಥೆ); ಮಾರುಕಟ್ಟೆ ಅನುಮತಿ (marketing authorisation)	standard	
+T01-FDA-Q25	Takeda GmbH, Germany; single dose	ಜರ್ಮನಿಯ ಟಕೇಡಾ GmbH ಕಂಪನಿ; ಒಂದೇ ಡೋಸ್	standard	
+T01-SDA-Q01	Instituted or conferred by	ಸ್ಥಾಪಿಸಿದವರು ಅಥವಾ ಪ್ರದಾನ ಮಾಡುವವರು	standard	
+T01-SDA-Q01	Tenzing Norgay National Adventure Award	ತೇನ್‌ಸಿಂಗ್ ನೋರ್ಗೆ ರಾಷ್ಟ್ರೀಯ ಸಾಹಸ ಪ್ರಶಸ್ತಿ	standard	
+T01-SDA-Q01	Pandit Deendayal Upadhyaya Telecom Excellence Awards	ಪಂಡಿತ್ ದೀನದಯಾಳ್ ಉಪಾಧ್ಯಾಯ ದೂರಸಂಪರ್ಕ ಶ್ರೇಷ್ಠತಾ ಪ್ರಶಸ್ತಿಗಳು	REFERENCE_LIST_FINAL 'CoE' (ಶ್ರೇಷ್ಠತಾ)	
+T01-SDA-Q01	Ministry of Youth Affairs and Sports	ಯುವಜನ ವ್ಯವಹಾರ ಮತ್ತು ಕ್ರೀಡಾ ಸಚಿವಾಲಯ	standard	
+T01-SDA-Q01	DARPG; ITU; WSIS Prizes	DARPG; ITU ನೇತೃತ್ವದ ಪ್ರಕ್ರಿಯೆ; WSIS ಪ್ರಶಸ್ತಿಗಳು	brief rule 7 over rule 4	deliberately NOT expanded: DARPG's Kannada full form (ಆಡಳಿತ ಸುಧಾರಣೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಕುಂದುಕೊರತೆಗಳ ಇಲಾಖೆ, cf. Gangadhar p0220) would cue the e-Governance match beyond the English. Flagged for owner
+T01-SDA-Q02	National Narcotics Helpline; MANAS	ರಾಷ್ಟ್ರೀಯ ಮಾದಕ ದ್ರವ್ಯ ಸಹಾಯವಾಣಿ; 'ಮಾನಸ್' (MANAS)	standard	
+T01-SDA-Q03	completely drug-free	ಸಂಪೂರ್ಣವಾಗಿ ಮಾದಕ ವಸ್ತು ಮುಕ್ತ	standard (Karnataka Government usage)	
+T01-SDA-Q04	India–Australia Annual Summit	ಭಾರತ–ಆಸ್ಟ್ರೇಲಿಯಾ ವಾರ್ಷಿಕ ಶೃಂಗಸಭೆ	Gangadhar p0223	
+T01-SDA-Q04	Canberra; Sydney; Perth; Melbourne	ಕ್ಯಾನ್‌ಬೆರಾ; ಸಿಡ್ನಿ; ಪರ್ತ್; ಮೆಲ್ಬೋರ್ನ್	standard	
+T01-SDA-Q05	India Meteorological Department; lightning warnings; mobile app	ಭಾರತೀಯ ಹವಾಮಾನ ಇಲಾಖೆ; ಸಿಡಿಲಿನ ಮುನ್ನೆಚ್ಚರಿಕೆ; ಮೊಬೈಲ್ ಆ್ಯಪ್	standard	
+T01-SDA-Q05	MEGHDOOT; DAMINI; SACHET; Mausamgram	ಮೇಘದೂತ್ (MEGHDOOT); ದಾಮಿನಿ (DAMINI); ಸಚೇತ್ (SACHET); ಮೌಸಮ್‌ಗ್ರಾಮ್ (Mausamgram)	brief rule 4	all four bracketed alike
+T01-SDA-Q06	IIM Bangalore; IIT Madras	IIM (ಭಾರತೀಯ ನಿರ್ವಹಣಾ ಸಂಸ್ಥೆ) ಬೆಂಗಳೂರು; IIT (ಭಾರತೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ) ಮದ್ರಾಸ್	standard	
+T01-SDA-Q06	Singhasari SEZ, Malang, Indonesia	ಇಂಡೋನೇಷ್ಯಾದ ಮಲಾಂಗ್‌ನಲ್ಲಿರುವ ಸಿಂಘಸಾರಿ SEZ (ವಿಶೇಷ ಆರ್ಥಿಕ ವಲಯ)	standard	
+T01-SDA-Q06	is to come up; overseas campus	ತಲೆ ಎತ್ತಲಿದೆ; ವಿದೇಶಿ ಕ್ಯಾಂಪಸ್	standard idiom	
+T01-SDA-Q07	Gati Shakti Vishwavidyalaya; honorary Ph.D.	ಗತಿ ಶಕ್ತಿ ವಿಶ್ವವಿದ್ಯಾಲಯ; ಗೌರವ ಪಿಎಚ್.ಡಿ.	REFERENCE_LIST_FINAL 'Universities'	
+T01-SDA-Q07	Ministry of Education / Road Transport and Highways / Railways / Civil Aviation	ಶಿಕ್ಷಣ ಸಚಿವಾಲಯ / ರಸ್ತೆ ಸಾರಿಗೆ ಮತ್ತು ಹೆದ್ದಾರಿಗಳ ಸಚಿವಾಲಯ / ರೈಲ್ವೆ ಸಚಿವಾಲಯ / ನಾಗರಿಕ ವಿಮಾನಯಾನ ಸಚಿವಾಲಯ	standard	
+T01-SDA-Q08	hydrogen train; flagged off	ಹೈಡ್ರೋಜನ್ ರೈಲು; ಹಸಿರು ನಿಶಾನೆ ತೋರಲಾದ	standard	
+T01-SDA-Q08	Kalka; Shimla; Delhi; Panipat; Jind; Rohtak; Sonipat	ಕಾಲ್ಕಾ; ಶಿಮ್ಲಾ; ದೆಹಲಿ; ಪಾಣಿಪತ್; ಜೀಂದ್; ರೋಹ್ಟಕ್; ಸೋನಿಪತ್	Ranganath 07 p0010 (ಶಿಮ್ಲಾ); p0013 (ಪಾಣಿಪತ್)	Jind, Rohtak, Sonipat, Kalka not in the book; standard spelling
+T01-SDA-Q09	PM-Vidyalaxmi	PM-ವಿದ್ಯಾಲಕ್ಷ್ಮಿ (PM-Vidyalaxmi)	brief rule 4	
+T01-SDA-Q09	Central Sector Scheme	ಕೇಂದ್ರ ವಲಯದ ಯೋಜನೆ	Garani p0123	distinct from ಕೇಂದ್ರ ಪುರಸ್ಕೃತ ಯೋಜನೆ (REFERENCE_LIST_FINAL 'Centrally Sponsored Schemes')
+T01-SDA-Q09	collateral-free and guarantor-free	ಆಧಾರ ಭದ್ರತೆ (collateral) ಮತ್ತು ಜಾಮೀನುದಾರರು (guarantor) ಇಲ್ಲದೆ	standard (banking Kannada)	
+T01-SDA-Q09	interest subvention	ಬಡ್ಡಿ ಸಹಾಯಧನ	Garani p0138	
+T01-SDA-Q09	education loans	ಶಿಕ್ಷಣ ಸಾಲ	REFERENCE_LIST_FINAL 'Type of Loan' (ಸಾಲ)	
+T01-SDA-Q10	National Commission for Minorities	ರಾಷ್ಟ್ರೀಯ ಅಲ್ಪಸಂಖ್ಯಾತರ ಆಯೋಗ	Gangadhar p0301	
+T01-SDA-Q10	Chairman; Vice Chairperson; Member	ಅಧ್ಯಕ್ಷರು; ಉಪಾಧ್ಯಕ್ಷರು; ಸದಸ್ಯರು	Gangadhar p0022; p0305	
+T01-SDA-Q10	Christian community; Parsi community	ಕ್ರೈಸ್ತ ಸಮುದಾಯ; ಪಾರ್ಸಿ ಸಮುದಾಯ	standard	
+T01-SDA-Q10	Harjit Singh Grewal; S. Munawari Begum; Berjis Desai; Glenn Souza Ticlo	ಹರ್ಜೀತ್ ಸಿಂಗ್ ಗ್ರೆವಾಲ್; ಎಸ್. ಮುನವ್ವರಿ ಬೇಗಂ; ಬರ್ಜಿಸ್ ದೇಸಾಯಿ; ಗ್ಲೆನ್ ಸೌಜಾ ಟಿಕ್ಲೊ	standard	
+T01-SDA-Q11	International Physics Olympiad	ಅಂತರರಾಷ್ಟ್ರೀಯ ಭೌತಶಾಸ್ತ್ರ ಒಲಿಂಪಿಯಾಡ್	standard	
+T01-SDA-Q11	Tashkent; Vilnius; Bucaramanga; Tokyo	ತಾಷ್ಕೆಂಟ್, ಉಜ್ಬೇಕಿಸ್ತಾನ; ವಿಲ್ನಿಯಸ್, ಲಿಥುವೇನಿಯಾ; ಬುಕಾರಮಾಂಗಾ, ಕೊಲಂಬಿಯಾ; ಟೋಕಿಯೊ, ಜಪಾನ್	standard	
+T01-SDA-Q12	Mangalore Fishing Harbour	ಮಂಗಳೂರು ಮೀನುಗಾರಿಕಾ ಬಂದರು	standard (Karnataka usage)	
+T01-SDA-Q12	Pradhan Mantri Matsya Sampada Yojana (PMMSY)	ಪ್ರಧಾನ ಮಂತ್ರಿ ಮತ್ಸ್ಯ ಸಂಪದ ಯೋಜನೆ; PMMSY (ಪ್ರಧಾನ ಮಂತ್ರಿ ಮತ್ಸ್ಯ ಸಂಪದ ಯೋಜನೆ)	standard	
+T01-SDA-Q12	modernisation; physical progress; projects	ಆಧುನೀಕರಣ; ಭೌತಿಕ ಪ್ರಗತಿ; ಯೋಜನೆಗಳು	REFERENCE_LIST_FINAL 'Modernisation Projects'; 'New Projects'	
+T01-SDA-Q13	Consumer Price Index; base year; revised series	ಗ್ರಾಹಕ ಬೆಲೆ ಸೂಚ್ಯಂಕ; ಆಧಾರ ವರ್ಷ; ಪರಿಷ್ಕೃತ ಸರಣಿ	Garani p0098; p0323	
+T01-SDA-Q13	item basket; weights	ಸರಕುಗಳ ಬುಟ್ಟಿ (item basket); ಭಾರಾಂಕಗಳು (weights)	standard	ಭಾರಾಂಕ not found in Garani OCR; English kept in brackets
+T01-SDA-Q13	Household Consumption Expenditure Survey 2023-24	ಕುಟುಂಬ ಬಳಕೆ ವೆಚ್ಚ ಸಮೀಕ್ಷೆ 2023-24	REFERENCE_LIST_FINAL 'PLFS' (... ಸಮೀಕ್ಷೆ) pattern	
+T01-SDA-Q14	Codex Alimentarius Commission; session; Codex standard; new work	ಕೋಡೆಕ್ಸ್ ಅಲಿಮೆಂಟೇರಿಯಸ್ ಆಯೋಗ (Codex Alimentarius Commission); ಅಧಿವೇಶನ; ಕೋಡೆಕ್ಸ್ ಮಾನದಂಡ; ಹೊಸ ಕೆಲಸ ಕೈಗೆತ್ತಿಕೊಳ್ಳುವ	Gangadhar p0223 (ಅಧಿವೇಶನ)	
+T01-SDA-Q14	large cardamom; cashew kernels; fresh curry leaves; dried coriander seeds	ದೊಡ್ಡ ಏಲಕ್ಕಿ; ಗೋಡಂಬಿ ತಿರುಳು; ತಾಜಾ ಕರಿಬೇವಿನ ಎಲೆಗಳು; ಒಣಗಿದ ಕೊತ್ತಂಬರಿ ಬೀಜಗಳು	Ranganath 07 p0080 (ಗೋಡಂಬಿ)	
+T01-SDA-Q15	One Nation, One Time	'ಒಂದು ರಾಷ್ಟ್ರ, ಒಂದು ಸಮಯ' (One Nation, One Time)	brief rule 4	
+T01-SDA-Q15	White Rabbit Technology; Indian Standard Time dissemination network; commissioned	ವೈಟ್ ರ್ಯಾಬಿಟ್ (White Rabbit) ತಂತ್ರಜ್ಞಾನ; ಭಾರತೀಯ ಪ್ರಮಾಣಿತ ಸಮಯ ಪ್ರಸರಣ ಜಾಲ; ಕಾರ್ಯಾರಂಭ ಮಾಡಿದ	standard	
+T01-SDA-Q15	New Delhi; Ahmedabad; Bengaluru; Hyderabad	ನವದೆಹಲಿ; ಅಹಮದಾಬಾದ್; ಬೆಂಗಳೂರು; ಹೈದರಾಬಾದ್	Ranganath 07 p0132; p0012	
+T01-SDA-Q16	Street Food Hubs; tourist destinations	ಬೀದಿ ಆಹಾರ ಕೇಂದ್ರಗಳು (Street Food Hubs); ಪ್ರವಾಸಿ ತಾಣಗಳು	standard	
+T01-SDA-Q16	PM Vishwakarma; Stand-Up India; PMEGP; PM SVANidhi	PM ವಿಶ್ವಕರ್ಮ (PM Vishwakarma); ಸ್ಟ್ಯಾಂಡ್-ಅಪ್ ಇಂಡಿಯಾ (Stand-Up India); PMEGP; PM ಸ್ವನಿಧಿ (PM SVANidhi)	brief rule 7 over rule 4	deliberately NOT expanded: SVANidhi's full form (ಬೀದಿ ಬದಿ ವ್ಯಾಪಾರಿಗಳ ಆತ್ಮನಿರ್ಭರ ನಿಧಿ) names street vendors and would give away the key. PMEGP left as in English for parity. Flagged for owner
+T01-SDA-Q17	Gaganyaan programme; uncrewed mission	ಗಗನಯಾನ ಕಾರ್ಯಕ್ರಮ; ಮಾನವರಹಿತ ಯಾನ	standard	ಯಾನ for 'mission' throughout this item
+T01-SDA-Q17	human-rated launch vehicle	ಮಾನವ ಸಹಿತ ಯಾನಕ್ಕೆ ಅರ್ಹಗೊಳಿಸಲಾದ (human-rated) ಉಡಾವಣಾ ವಾಹನ	standard	
+T01-SDA-Q17	Astronaut Training facility, Bengaluru	ಬೆಂಗಳೂರಿನ ಗಗನಯಾತ್ರಿ ತರಬೇತಿ ಕೇಂದ್ರ (Astronaut Training facility)	standard	
+T01-SDA-Q17	First Launch Pad, SDSC SHAR	SDSC SHAR (ಸತೀಶ್ ಧವನ್ ಬಾಹ್ಯಾಕಾಶ ಕೇಂದ್ರ, ಶ್ರೀಹರಿಕೋಟಾ)ನ ಮೊದಲ ಉಡಾವಣಾ ಪೀಠ (First Launch Pad)	Ranganath 07 p0037 (ಶ್ರೀಹರಿಕೋಟಾ)	SHAR = Sriharikota Range; expansion shortened to the place name
+T01-SDA-Q18	India–EFTA Trade and Economic Partnership Agreement (TEPA)	ಭಾರತ–EFTA (ಯುರೋಪಿಯನ್ ಮುಕ್ತ ವ್ಯಾಪಾರ ಸಂಘ) ವ್ಯಾಪಾರ ಮತ್ತು ಆರ್ಥಿಕ ಪಾಲುದಾರಿಕೆ ಒಪ್ಪಂದ (TEPA)	Garani p0007 (ಮುಕ್ತ ವ್ಯಾಪಾರ)	all four options are European, so the expansion leaks nothing
+T01-SDA-Q18	NOT a member	ಸದಸ್ಯ ರಾಷ್ಟ್ರ **ಅಲ್ಲ**	KEA_AsstHortDirector_GK_KK_2026-10-06:16 (ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿಲ್ಲ)	English capitals carried as markdown bold
+T01-SDA-Q18	Iceland; Norway; Liechtenstein; Austria	ಐಸ್‌ಲ್ಯಾಂಡ್; ನಾರ್ವೆ; ಲಿಕ್ಟೆನ್‌ಸ್ಟೈನ್; ಆಸ್ಟ್ರಿಯಾ	standard	
+T01-SDA-Q19	high-powered task force; examination reforms	ಉನ್ನತಾಧಿಕಾರ ಕಾರ್ಯಪಡೆ; ಪರೀಕ್ಷಾ ಸುಧಾರಣೆಗಳು	Gangadhar p0437 (ಉನ್ನತಾಧಿಕಾರ); p0458 (ಕಾರ್ಯಪಡೆ)	
+T01-SDA-Q19	Nandan Nilekani; Pralhad Joshi; K. Radhakrishnan; Keshav Chandra	ನಂದನ್ ನಿಲೇಕಣಿ; ಪ್ರಹ್ಲಾದ್ ಜೋಶಿ; ಕೆ. ರಾಧಾಕೃಷ್ಣನ್; ಕೇಶವ್ ಚಂದ್ರ	standard	
+T01-SDA-Q20	FIU-IND	FIU-IND (ಹಣಕಾಸು ಗುಪ್ತಚರ ಘಟಕ – ಭಾರತ)	standard	
+T01-SDA-Q20	Egmont Group Plenary; Best Egmont Case Award; runner-up	ಎಗ್ಮಾಂಟ್ ಗ್ರೂಪ್‌ನ ಸರ್ವಸದಸ್ಯ ಸಭೆ (Plenary); ಅತ್ಯುತ್ತಮ ಎಗ್ಮಾಂಟ್ ಪ್ರಕರಣ ಪ್ರಶಸ್ತಿ (Best Egmont Case Award); ರನ್ನರ್-ಅಪ್	standard	
+T01-SDA-Q20	Geneva; Baku; Vienna; Paris	ಜಿನೀವಾ; ಬಾಕು; ವಿಯೆನ್ನಾ; ಪ್ಯಾರಿಸ್	standard	
+T01-SDA-Q21	large-scale road asphalting	ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ರಸ್ತೆ ಡಾಂಬರೀಕರಣ	standard (Karnataka usage)	
+T01-SDA-Q22	ISSF World Cup; trap shooter	ISSF (ಅಂತರರಾಷ್ಟ್ರೀಯ ಶೂಟಿಂಗ್ ಕ್ರೀಡಾ ಒಕ್ಕೂಟ) ವಿಶ್ವಕಪ್; ಟ್ರ್ಯಾಪ್ ಶೂಟರ್	standard	
+T01-SDA-Q22	Lonato, Italy	ಇಟಲಿಯ ಲೊನಾಟೊ	standard	
+T01-SDA-Q22	Esha Singh; Manu Bhaker; Shreyasi Singh; Neeru Dhanda	ಇಶಾ ಸಿಂಗ್; ಮನು ಭಾಕರ್; ಶ್ರೇಯಸಿ ಸಿಂಗ್; ನೀರು ಧಂಡಾ	standard	
+T01-SDA-Q23	Tribhuvan Sahkari University; Anand, Gujarat	ತ್ರಿಭುವನ್ ಸಹಕಾರಿ ವಿಶ್ವವಿದ್ಯಾಲಯ; ಗುಜರಾತ್‌ನ ಆನಂದ್	Ranganath 07 p0161 (ಆನಂದ್)	
+T01-SDA-Q23	Institute of Rural Management Anand (IRMA); built on	ಗ್ರಾಮೀಣ ನಿರ್ವಹಣಾ ಸಂಸ್ಥೆ, ಆನಂದ್ (IRMA); ಆಧಾರವಾಗಿಟ್ಟುಕೊಂಡು ನಿರ್ಮಿಸಲಾಗಿದೆ	standard	
+T01-SDA-Q23	Ministry of Cooperation, under which it functions, was set up	ಯಾವ ಸಚಿವಾಲಯದ ಅಡಿಯಲ್ಲಿ ಇದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆಯೋ ಆ ಸಹಕಾರ ಸಚಿವಾಲಯವನ್ನು ... ರಚಿಸಲಾಯಿತು	Gangadhar p0037 (ಸಹಕಾರ ಸಚಿವಾಲಯವನ್ನು ರಚಿಸಲಾಯಿತು); p0220 (ಯಾವ ... ಯೋ correlative)	keeps the English presupposition as a relative clause, not a separate claim
+T01-SDA-Q23	Minister of State for Cooperation; convocation	ಸಹಕಾರ ಖಾತೆ ರಾಜ್ಯ ಸಚಿವ; ಘಟಿಕೋತ್ಸವ	Gangadhar p0212 (ರಾಜ್ಯ ಸಚಿವರು); p0300 (ಖಾತೆ)	
+T01-SDA-Q24	tri-service all-women circumnavigation	ಮೂರೂ ಸೇನಾಪಡೆಗಳ ಮಹಿಳೆಯರೇ ಕೈಗೊಂಡ ಭೂಪ್ರದಕ್ಷಿಣೆ	Gangadhar p0187 (ಮೂರು ಪಡೆಗಳು)	
+T01-SDA-Q24	Samudra Pradakshina	'ಸಮುದ್ರ ಪ್ರದಕ್ಷಿಣಾ' (Samudra Pradakshina)	brief rule 4	
+T01-SDA-Q24	INSV Tarini; INSV Mhadei; IASV Triveni; INSV Kaundinya	INSV ತಾರಿಣಿ; INSV ಮಹದಾಯಿ; IASV ತ್ರಿವೇಣಿ; INSV ಕೌಂಡಿನ್ಯ	standard	Mhadei given the Karnataka river spelling ಮಹದಾಯಿ; vessel prefixes kept Latin
+T01-SDA-Q25	Indian Council of Agricultural Research; Foundation Day	ಭಾರತೀಯ ಕೃಷಿ ಸಂಶೋಧನಾ ಮಂಡಳಿ; ಸಂಸ್ಥಾಪನಾ ದಿನ	standard	
+T01-SDA-Q25	first indigenous vaccine	ಮೊದಲ ಸ್ವದೇಶಿ ಲಸಿಕೆ	standard	
+T01-SDA-Q25	African Swine Fever; Lumpy Skin Disease; Foot-and-Mouth Disease; Peste des Petits Ruminants	ಆಫ್ರಿಕನ್ ಹಂದಿ ಜ್ವರ; ಚರ್ಮಗಂಟು ರೋಗ; ಕಾಲುಬಾಯಿ ರೋಗ; ಕುರಿ ಮತ್ತು ಮೇಕೆ ಪ್ಲೇಗ್	standard (Karnataka animal-husbandry usage)	English name bracketed on all four for parity (rule 7)
+GI	Geographical Indication	ಭೌಗೋಳಿಕ ಸೂಚಕ	standard (fidelity check 14-11-2026)	Replaces ಭೌಗೋಳಿಕ ಸೂಚನೆ ("notice/instruction"); Claude Code applied the checker's Queue B fix

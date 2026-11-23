@@ -1,0 +1,2 @@
+ASTRA T05 Kannada continuation package, 23-11-2026 (§516). Built from repository state after commit a140ec51.
+Start: PROMPTS/00_main_session.txt and RUNBOOK_OTHER_MACHINE.md. Verify first: verify_package.py must print PACKAGE OK.

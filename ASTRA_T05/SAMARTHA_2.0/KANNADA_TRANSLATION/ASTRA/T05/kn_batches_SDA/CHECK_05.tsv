@@ -1,0 +1,27 @@
+id	part	line_no	kannada_text	back_translation	problem	suggested_kannada	queue
+T05-CA-SDA-S13	Q	3	2. ಈ ಯೋಜನೆಯಿಂದ ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುವ ರಾಜ್ಯ ಉತ್ತರಾಖಂಡ.	2. The State that benefits most from this project is Uttarakhand.	Adds ರಾಜ್ಯ ('State') not in the English ('the biggest beneficiary'). Delhi, the actual biggest beneficiary, is a Union Territory, so 'the biggest beneficiary State is Uttarakhand' becomes defensibly TRUE in Kannada; a candidate could then pick a) 1, 2 and 3. Changes the truth value of statement 2 and opens a second defensible option. Also breaks the settled §516 rule (glossary 'biggest beneficiary' row; DECISIONS C: no ರಾಜ್ಯ in SDA Q77).	2. ಈ ಯೋಜನೆಯಿಂದ ಉತ್ತರಾಖಂಡ ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುತ್ತದೆ.	A
+T05-CA-SDA-S13	S	5	**ಹೇಳಿಕೆ 2: ತಪ್ಪು.** ಪತ್ರಿಕಾ ಪ್ರಕಟಣೆಯು ಈ ಯೋಜನೆಯಿಂದ ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುವ ರಾಜ್ಯವಾಗಿ ಉತ್ತರಾಖಂಡವನ್ನಲ್ಲ, **ದೆಹಲಿಯನ್ನು** ಹೆಸರಿಸುತ್ತದೆ (PIB, 15 ಸೆಪ್ಟೆಂಬರ್ 2026).	Statement 2: Incorrect. The press release names not Uttarakhand but Delhi as the State that benefits most from this project (PIB, 15 Sep 2026).	Same added ರಾಜ್ಯ: calls Delhi (a Union Territory) a State and frames the comparison among States, which differs from the English fact and from the settled §516 rule (glossary 'biggest beneficiary'; DECISIONS C: Delhi named as ದೆಹಲಿ alone with no added noun).	**ಹೇಳಿಕೆ 2: ತಪ್ಪು.** ಪತ್ರಿಕಾ ಪ್ರಕಟಣೆಯ ಪ್ರಕಾರ, ಈ ಯೋಜನೆಯಿಂದ ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುವುದು ಉತ್ತರಾಖಂಡವಲ್ಲ, **ದೆಹಲಿ** (PIB, 15 ಸೆಪ್ಟೆಂಬರ್ 2026).	A
+T05-CA-SDA-S11	S	15	- **ತರಬೇತಿ:** ವರ್ಷಕ್ಕೆ ಸುಮಾರು **10,000** ತರಬೇತಿ ಪಡೆಯುವವರು.	- Training: about 10,000 training-receivers a year.	Unnatural: 'ತರಬೇತಿ ಪಡೆಯುವವರು' as a bare noun phrase is a word-for-word calque of 'trainees'.	- **ತರಬೇತಿ:** ವರ್ಷಕ್ಕೆ ಸುಮಾರು **10,000** ಮಂದಿಗೆ ತರಬೇತಿ.	B
+T05-CA-SDA-S22	S	17	- **ಬೆಂಬಲ ಯೋಜನೆ:** ರಾಷ್ಟ್ರೀಯ ಸೆಣಬು ಮಂಡಳಿ ನಡೆಸುವ **ರಾಷ್ಟ್ರೀಯ ಸೆಣಬು ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮ (NJDP)**, **JUTE-ICARE** (ಸುಧಾರಿತ ಬೇಸಾಯ ಮತ್ತು ಆಧುನಿಕ ಕೊಳೆಯಿಸುವಿಕೆ ಕ್ರಮ) ಅನ್ನು ಒಳಗೊಂಡಿದೆ.	- Support scheme: the National Jute Development Programme (NJDP) run by the National Jute Board, JUTE-ICARE (Improved Cultivation and Advanced Retting Exercise) includes.	Awkward grammar: the comma after the bold NJDP and the missing subject marker make NJDP read as a list item, so the sentence has no clear subject for ಒಳಗೊಂಡಿದೆ. Meaning recoverable.	- **ಬೆಂಬಲ ಯೋಜನೆ:** ರಾಷ್ಟ್ರೀಯ ಸೆಣಬು ಮಂಡಳಿ ನಡೆಸುವ **ರಾಷ್ಟ್ರೀಯ ಸೆಣಬು ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮವು (NJDP)** **JUTE-ICARE** (ಸುಧಾರಿತ ಬೇಸಾಯ ಮತ್ತು ಆಧುನಿಕ ಕೊಳೆಯಿಸುವಿಕೆ ಕ್ರಮ) ಅನ್ನು ಒಳಗೊಂಡಿದೆ.	B
+T05-CA-SDA-S01	S	14	- **ಬಳಸಿಕೊಳ್ಳುವ ಜಾಲ:** **DAY-NRLM**ನ (ದೀನದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ – ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಜೀವನೋಪಾಯ ಮಿಷನ್) ಮಹಿಳಾ ನೇತೃತ್ವದ ಸ್ವಸಹಾಯ ಗುಂಪು (SHG) ಜಾಲ; ಇದರ **ಬಿಸಿ ಸಖಿಯರೂ** ಸೇರಿದಂತೆ.	- Network used: DAY-NRLM's (Deendayal Antyodaya Yojana - National Rural Livelihoods Mission) women-led self-help group (SHG) network; including its BC Sakhis too.	Unnatural: the English 'including its BC Sakhis' is tacked on after a semicolon as a verbless fragment (English word order).	- **ಬಳಸಿಕೊಳ್ಳುವ ಜಾಲ:** **ಬಿಸಿ ಸಖಿಯರೂ** ಸೇರಿದಂತೆ **DAY-NRLM**ನ (ದೀನದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ – ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಮೀಣ ಜೀವನೋಪಾಯ ಮಿಷನ್) ಮಹಿಳಾ ನೇತೃತ್ವದ ಸ್ವಸಹಾಯ ಗುಂಪು (SHG) ಜಾಲ.	B
+T05-CA-SDA-S14	S	19	**ಪರೀಕ್ಷಾ ಸಂಗತಿ:** 2026ರ ಏಷ್ಯನ್ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಸಹದೇವ್ ಯಾದವ್ ಅವರು ಭಾರತ ತಂಡದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದರು (Chef de Mission) (PIB, 8 ಸೆಪ್ಟೆಂಬರ್ 2026).	Exam Fact: At the Asian Games 2026, Sahdev Yadav was the head of the Indian team (Chef de Mission) (PIB, 8 Sep 2026).	Awkward: the gloss '(Chef de Mission)' stands after the finite verb, producing two brackets in a row; the gloss belongs to the noun, as in the glossary row 'ತಂಡದ ಮುಖ್ಯಸ್ಥ (Chef de Mission)'.	**ಪರೀಕ್ಷಾ ಸಂಗತಿ:** 2026ರ ಏಷ್ಯನ್ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಸಹದೇವ್ ಯಾದವ್ ಅವರು ಭಾರತ ತಂಡದ ಮುಖ್ಯಸ್ಥ (Chef de Mission) ಆಗಿದ್ದರು (PIB, 8 ಸೆಪ್ಟೆಂಬರ್ 2026).	B
+T05-CA-SDA-S04	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S08	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S02	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S05	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S21	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S03	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S18	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S06	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S15	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S10	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S16	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S09	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S07	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S24	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S25	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S12	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S20	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S23	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S19	-	-	-	-	CLEAN	-	-
+T05-CA-SDA-S17	-	-	-	-	CLEAN	-	-

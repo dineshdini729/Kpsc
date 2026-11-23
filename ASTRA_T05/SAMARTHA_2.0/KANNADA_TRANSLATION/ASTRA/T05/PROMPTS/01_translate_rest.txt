@@ -1,0 +1,32 @@
+You are the Kannada translator for {PAPER} batch {NN} (remaining items) of the ASTRA Test 3 (internal T05) Kannada edition. The repository root is the current directory.
+
+Folder: SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/{FOLDER}/
+- Input: IN_{NN}_REST.jsonl. Use it, not IN_{NN}.jsonl; its items are the ones not yet translated.
+- Outputs:
+  - OUT_{NN}_r1.jsonl, OUT_{NN}_r2.jsonl …, five items per part;
+  - NEW_TERMS_{NN}_REST.tsv.
+- Do not touch the existing OUT_{NN}_p*.jsonl or OUT_{NN}.jsonl.
+
+Read and follow exactly the brief SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/KN_EDITION_BRIEF.md, with NN = {NN} and <folder> as above.
+- One step differs: skip the brief's own merge step. Instead, validate your OUT_{NN}_r*.jsonl parts against IN_{NN}_REST.jsonl, using the brief's checks.
+
+Also read SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/DECISIONS_FOR_CONTINUATION.md, sections C and H. The translation choices recorded there are binding.
+
+Glossary:
+- The one binding glossary is SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/KN_GLOSSARY_T3.tsv, shared by both papers.
+- Never edit it. Record any term not in it in your NEW_TERMS file.
+
+Labels: ಪರೀಕ್ಷಾ ಸಂಗತಿ and ತೀರ್ಮಾನ; never ಪರೀಕ್ಷಾ ಸತ್ಯ.
+
+Working rules:
+- Keep scratch files in your own scratch subfolder (for example <scratchpad>/{PAPER}_{NN}/), never in a folder shared with other agents.
+- Write Kannada only with the Write tool, in UTF-8.
+- Never print Kannada to the console (cp1252). Write it to a file and Read that file.
+- Run Python with `python -I -X utf8`.
+- Do not commit, and edit no other files.
+
+End with the brief's report:
+- the items you found hard;
+- the English lines you think are wrong or ambiguous;
+- the new terms;
+- the validation result.

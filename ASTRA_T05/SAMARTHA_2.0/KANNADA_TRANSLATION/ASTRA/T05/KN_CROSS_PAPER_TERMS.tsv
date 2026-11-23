@@ -1,0 +1,535 @@
+english	glossary_kannada	FDA_items_with_form	SDA_items_with_form	result
+army	ಸೈನ್ಯ	11/12	7/7	FLAG
+author	ಕರ್ತೃ	6/7	6/6	FLAG
+Bahmani	ಬಹಮನಿ ಸುಲ್ತಾನರು	1/2	1/1	FLAG
+Basavapurana	ಬಸವಪುರಾಣ	1/1	0/2	FLAG
+battle	ಕದನ	4/7	5/5	FLAG
+biography	ಜೀವನ ಚರಿತ್ರೆ	1/2	2/2	FLAG
+Buddhism	ಬೌದ್ಧ ಧರ್ಮ	4/4	7/8	FLAG
+capital	ರಾಜಧಾನಿ	17/18	19/19	FLAG
+corridors	ಕಾರಿಡಾರ್‌ಗಳು	0/1	1/1	FLAG
+festival	ಹಬ್ಬ / ಉತ್ಸವ	2/2	0/1	FLAG
+Guru Arjan (Arjan Dev)	ಗುರು ಅರ್ಜುನ್ ದೇವ್	1/1	0/1	FLAG
+Khalji	ಖಿಲ್ಜಿ ಸಂತತಿ	1/1	1/3	FLAG
+metre (poetic)	ಛಂದಸ್ಸು	1/1	2/3	FLAG
+Middle Stone Age	ಮಧ್ಯಶಿಲಾಯುಗ	0/1	1/1	FLAG
+monk	ಸನ್ಯಾಸಿ	1/1	0/1	FLAG
+MSME	ಸೂಕ್ಷ್ಮ, ಸಣ್ಣ ಮತ್ತು ಮಧ್ಯಮ ಉದ್ದಿಮೆಗಳು (MSME)	1/1	1/2	FLAG
+Muhammad (Mahamud) Adil Shah	ಮಹಮ್ಮದ್ (ಮಹಮೂದ್) ಆದಿಲ್‌ಷಾ	1/1	0/1	FLAG
+Neolithic (New Stone Age)	ನವ ಶಿಲಾಯುಗ	1/1	0/1	FLAG
+painting	ಚಿತ್ರಕಲೆ	1/1	3/4	FLAG
+patronage	ಆಶ್ರಯ	0/2	9/9	FLAG
+per cent	ಶೇ.	4/5	5/5	FLAG
+Sanchi	ಸಾಂಚಿ	1/1	1/2	FLAG
+The statement is false, so it is the answer.	ಈ ಹೇಳಿಕೆ ತಪ್ಪು, ಆದ್ದರಿಂದ ಇದೇ ಉತ್ತರ.	1/2	1/1	FLAG
+title	ಬಿರುದು	11/12	11/11	FLAG
+title (royal)	ಬಿರುದು	11/12	11/11	FLAG
+translation	ಭಾಷಾಂತರ	1/3	2/2	FLAG
+Tughlaq	ತುಘಲಕ್ ಸಂತತಿ	1/1	2/3	FLAG
+Union Minister	ಕೇಂದ್ರ ಸಚಿವ	1/1	2/3	FLAG
+Which of the statements given above are correct?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾಗಿವೆ?	8/9	8/8	FLAG
+account (travel account)	ಪ್ರವಾಸ ಕಥನ	0/6	0/6	BOTH_MISS
+Adil Shahis (of Vijayapura/Bijapur)	ವಿಜಯಪುರದ ಆದಿಲ್‌ಷಾಹಿಗಳು	1/3	0/2	BOTH_MISS
+All three	ಎಲ್ಲಾ ಮೂರು	1/4	0/3	BOTH_MISS
+approved (on 2 April 2025)	ಅನುಮೋದಿಸಲಾಯಿತು	2/3	0/1	BOTH_MISS
+authority (body)	ಪ್ರಾಧಿಕಾರ	0/3	3/6	BOTH_MISS
+Baburnama (Tuzuk-i-Baburi)	ಬಾಬರ್‌ನಾಮಾ (ತುಝುಕ್-ಇ-ಬಾಬರಿ)	0/1	0/1	BOTH_MISS
+Badami (Vatapi)	ಬಾದಾಮಿ (ವಾತಾಪಿ)	0/5	0/3	BOTH_MISS
+Basaveshwara (Basavanna)	ಬಸವೇಶ್ವರ (ಬಸವಣ್ಣ)	0/1	0/1	BOTH_MISS
+Bijapur	ಬಿಜಾಪುರ	0/5	1/4	BOTH_MISS
+Brihadishvara temple (Rajarajeshvaram)	ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ (ರಾಜರಾಜೇಶ್ವರಂ)	0/2	0/1	BOTH_MISS
+century (e.g. 7th century)	7ನೇ ಶತಮಾನ	2/17	0/15	BOTH_MISS
+claims	ಕ್ಲೇಮ್‌ಗಳು (ವಿಮಾ ಪರಿಹಾರ)	0/1	0/1	BOTH_MISS
+dates (August 2026 / 15 August 2026)	ಆಗಸ್ಟ್ 2026ರಲ್ಲಿ / 15 ಆಗಸ್ಟ್ 2026ರಂದು	0/7	0/5	BOTH_MISS
+dhamma	ಧಮ್ಮ (ಧರ್ಮ)	0/1	0/1	BOTH_MISS
+dynasty	ರಾಜವಂಶ / ಮನೆತನ	9/19	9/14	BOTH_MISS
+dynasty (vamsha)	ವಂಶ	13/19	10/14	BOTH_MISS
+edition (24th edition)	ಆವೃತ್ತಿ (24ನೇ ಆವೃತ್ತಿ)	0/1	0/2	BOTH_MISS
+fire	ಬೆಂಕಿ	0/1	1/2	BOTH_MISS
+gateway (torana of a stupa)	ತೋರಣ ದ್ವಾರ	1/2	0/1	BOTH_MISS
+Governor	ರಾಜ್ಯಪಾಲ	2/3	1/3	BOTH_MISS
+governor (of a Sultanate/Mughal province)	ರಾಜ್ಯಪಾಲ	2/3	1/3	BOTH_MISS
+Indus (river)	ಸಿಂಧೂ ನದಿ	3/5	1/2	BOTH_MISS
+Kalyana (Basavakalyana)	ಕಲ್ಯಾಣ (ಬಸವಕಲ್ಯಾಣ)	0/9	0/6	BOTH_MISS
+Karnataka	ಕರ್ನಾಟಕ	28/29	30/34	BOTH_MISS
+Krishna (river)	ಕೃಷ್ಣಾ ನದಿ	1/2	1/5	BOTH_MISS
+launched (scheme)	ಚಾಲನೆ ನೀಡಲಾಯಿತು / ಆರಂಭಿಸಿದ	2/5	2/7	BOTH_MISS
+minister	ಸಚಿವ	10/17	7/13	BOTH_MISS
+minister (of a king)	ಮಂತ್ರಿ	7/17	6/13	BOTH_MISS
+None (option)	ಯಾವುದೂ ಇಲ್ಲ	1/2	0/2	BOTH_MISS
+order	ಆದೇಶ	2/10	1/7	BOTH_MISS
+philosophy	ತತ್ತ್ವಶಾಸ್ತ್ರ / ಸಿದ್ಧಾಂತ	0/3	3/5	BOTH_MISS
+President (of India)	ರಾಷ್ಟ್ರಪತಿ	1/2	3/5	BOTH_MISS
+Puhar (Kaveripattinam)	ಪುಹಾರ್ (ಕಾವೇರಿಪಟ್ಟಣಂ)	0/1	0/1	BOTH_MISS
+Rajaraja I (Rajaraja Chola)	ಒಂದನೆಯ ರಾಜರಾಜ (ರಾಜರಾಜ ಚೋಳ)	0/2	0/1	BOTH_MISS
+Rajendra I (Rajendra Chola)	ಒಂದನೆಯ ರಾಜೇಂದ್ರ (ರಾಜೇಂದ್ರ ಚೋಳ)	0/2	0/1	BOTH_MISS
+released (funds)	ಬಿಡುಗಡೆ ಮಾಡಲಾಗಿದೆ	0/1	1/2	BOTH_MISS
+Sher Shah (Sher Shah Suri)	ಶೇರ್‌ಷಾ (ಶೇರ್‌ಷಾ ಸೂರಿ)	0/1	0/2	BOTH_MISS
+signed	ಸಹಿ ಮಾಡಲಾಯಿತು	1/4	0/4	BOTH_MISS
+source (of history)	ಆಧಾರ	3/5	0/6	BOTH_MISS
+succeeded	... ಅವರ ಉತ್ತರಾಧಿಕಾರಿಯಾದರು	0/4	0/1	BOTH_MISS
+theme	ಧ್ಯೇಯವಾಕ್ಯ (theme)	2/5	1/4	BOTH_MISS
+tribute	ಕಪ್ಪ	3/4	1/2	BOTH_MISS
+tribute (homage)	ಶ್ರದ್ಧಾಂಜಲಿ	1/4	1/2	BOTH_MISS
+university	ವಿಶ್ವವಿದ್ಯಾನಿಲಯ	3/4	2/3	BOTH_MISS
+Vedas (four)	ವೇದಗಳು: ಋಗ್ವೇದ, ಯಜುರ್ವೇದ, ಸಾಮವೇದ, ಅಥರ್ವಣ ವೇದ	0/1	0/8	BOTH_MISS
+Virupaksha (family deity)	ವಿರೂಪಾಕ್ಷ (ಕುಲದೇವರು)	0/1	0/1	BOTH_MISS
+Which one of the following pairs is NOT correctly matched?	ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ?	0/1	0/2	BOTH_MISS
+Which one of the following statements is NOT correct?	ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಲ್ಲ?	0/4	0/2	BOTH_MISS
+women	ಮಹಿಳೆಯರು	3/4	5/7	BOTH_MISS
+work (literary)	ಕೃತಿ	11/17	17/20	BOTH_MISS
+72nd National Film Awards	72ನೇ ರಾಷ್ಟ್ರೀಯ ಚಲನಚಿತ್ರ ಪ್ರಶಸ್ತಿಗಳು	1/1	1/1	OK
+Abul Fazl	ಅಬುಲ್ ಫಜಲ್	1/1	1/1	OK
+according to the release	ಪತ್ರಿಕಾ ಪ್ರಕಟಣೆಯ ಪ್ರಕಾರ	7/7	8/8	OK
+Adil Shahis	ಆದಿಲ್‌ಷಾಹಿಗಳು	3/3	2/2	OK
+administration	ಆಡಳಿತ	10/10	6/6	OK
+Advaita	ಅದ್ವೈತ	1/1	1/1	OK
+Afghanistan	ಅಫ್ಘಾನಿಸ್ತಾನ	2/2	2/2	OK
+Agra	ಆಗ್ರಾ	4/4	2/2	OK
+Aihole	ಐಹೊಳೆ	1/1	1/1	OK
+Ain-i-Akbari	ಐನ್-ಇ-ಅಕ್ಬರಿ	1/1	1/1	OK
+Ajanta	ಅಜಂತಾ	1/1	4/4	OK
+Akbar	ಅಕ್ಬರ್	3/3	7/7	OK
+Akbarnama	ಅಕ್ಬರ್‌ನಾಮಾ	1/1	1/1	OK
+Akka Mahadevi	ಅಕ್ಕಮಹಾದೇವಿ	1/1	1/1	OK
+Al-Biruni	ಅಲ್‌ಬೆರೂನಿ	1/1	1/1	OK
+Alauddin Khalji	ಅಲ್ಲಾವುದ್ದೀನ್ ಖಿಲ್ಜಿ	1/1	3/3	OK
+Allamaprabhu	ಅಲ್ಲಮಪ್ರಭು	1/1	2/2	OK
+Amaravati	ಅಮರಾವತಿ	1/1	1/1	OK
+ambassador	ರಾಯಭಾರಿ	2/2	2/2	OK
+Andaman and Nicobar Islands	ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೋಬಾರ್ ದ್ವೀಪಗಳು	1/1	1/1	OK
+Andhra	ಆಂಧ್ರ	3/3	1/1	OK
+Arabic	ಅರಬ್ಬೀ	1/1	3/3	OK
+architecture	ವಾಸ್ತುಶಿಲ್ಪ	3/3	11/11	OK
+Ardhanarishwara	ಅರ್ಧನಾರೀಶ್ವರ	1/1	1/1	OK
+ascetic	ಸನ್ಯಾಸಿ	1/1	1/1	OK
+ASEAN	ಆಸಿಯಾನ್ (ASEAN – ಆಗ್ನೇಯ ಏಷ್ಯಾ ರಾಷ್ಟ್ರಗಳ ಒಕ್ಕೂಟ)	1/1	1/1	OK
+Ashoka	ಅಶೋಕ	7/7	5/5	OK
+Ashokan edicts	ಅಶೋಕನ ಶಾಸನಗಳು	1/1	1/1	OK
+Ashvaghosha	ಅಶ್ವಘೋಷ	1/1	1/1	OK
+Asian Games 2026	2026ರ ಏಷ್ಯನ್ ಕ್ರೀಡಾಕೂಟ	1/1	2/2	OK
+Assam	ಅಸ್ಸಾಂ	2/2	2/2	OK
+Aurangzeb	ಔರಂಗಜೇಬ್	4/4	2/2	OK
+autobiography	ಆತ್ಮಚರಿತ್ರೆ	1/1	1/1	OK
+Avanti	ಅವಂತಿ	2/2	1/1	OK
+Babur	ಬಾಬರ್	2/2	2/2	OK
+Baburnama	ಬಾಬರ್‌ನಾಮಾ	1/1	1/1	OK
+Badami	ಬಾದಾಮಿ	5/5	3/3	OK
+Baluchistan	ಬಲೂಚಿಸ್ತಾನ	1/1	1/1	OK
+Banavasi	ಬನವಾಸಿ	2/2	4/4	OK
+Bangalore (Bengaluru)	ಬೆಂಗಳೂರು	1/1	3/3	OK
+Bangladesh	ಬಾಂಗ್ಲಾ	1/1	1/1	OK
+basadi	ಬಸದಿ	2/2	1/1	OK
+Basaveshwara	ಬಸವೇಶ್ವರ	1/1	1/1	OK
+basin	ಜಲಾನಯನ ಪ್ರದೇಶ	1/1	1/1	OK
+bead-making	ಮಣಿ	1/1	1/1	OK
+Belagavi	ಬೆಳಗಾವಿ	1/1	3/3	OK
+Belagavi ("Belagaum")	ಬೆಳಗಾವಿ	1/1	3/3	OK
+Belagavi (Belgaum)	ಬೆಳಗಾವಿ	1/1	3/3	OK
+Belur	ಬೇಲೂರು	1/1	1/1	OK
+Bengal	ಬಂಗಾಳ	6/6	4/4	OK
+Bengali	ಬಂಗಾಳಿ	2/2	1/1	OK
+Bengaluru	ಬೆಂಗಳೂರು	5/5	7/7	OK
+Bernier	ಬರ್ನಿಯರ್	1/1	1/1	OK
+Bharuch	ಭರೂಚ್	1/1	2/2	OK
+Bhavabhuti	ಭವಭೂತಿ	1/1	1/1	OK
+Bidar	ಬೀದರ್	1/1	2/2	OK
+Bihar	ಬಿಹಾರ	6/6	4/4	OK
+Brahmagiri	ಬ್ರಹ್ಮಗಿರಿ	1/1	1/1	OK
+Brahmanas (texts)	ಬ್ರಾಹ್ಮಣ	3/3	2/2	OK
+bricks	ಇಟ್ಟಿಗೆ	1/1	2/2	OK
+bronze	ಕಂಚಿನ	3/3	7/7	OK
+Buddha	ಬುದ್ಧ	7/7	7/7	OK
+Buddhacharita	ಬುದ್ಧಚರಿತ	1/1	1/1	OK
+cavalry	ಅಶ್ವದಳ	1/1	2/2	OK
+Central Asia	ಮಧ್ಯ ಏಷ್ಯಾ	1/1	1/1	OK
+centre of learning	ವಿದ್ಯಾಕೇಂದ್ರ	1/1	1/1	OK
+century	ಶತಮಾನ	17/17	15/15	OK
+Chalukyas	ಚಾಳುಕ್ಯರು	10/10	8/8	OK
+Chalukyas of Badami	ಬಾದಾಮಿಯ ಚಾಳುಕ್ಯರು	4/4	2/2	OK
+Chalukyas of Kalyana	ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು	6/6	6/6	OK
+Chalukyas of Kalyana (Kalyana Chalukyas)	ಕಲ್ಯಾಣದ ಚಾಳುಕ್ಯರು	6/6	6/6	OK
+champu	ಚಂಪೂ	1/1	1/1	OK
+Chanakya	ಚಾಣಕ್ಯ	3/3	2/2	OK
+Chandni Chowk	ಚಾಂದನಿ ಚೌಕ್	1/1	1/1	OK
+Chandragupta II	ಎರಡನೆಯ ಚಂದ್ರಗುಪ್ತ	2/2	3/3	OK
+Chandragupta Maurya	ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯ	5/5	2/2	OK
+Chavundaraya	ಚಾವುಂಡರಾಯ	2/2	1/1	OK
+Cheras	ಚೇರರು	1/1	1/1	OK
+Chhatrapati	ಛತ್ರಪತಿ	1/1	1/1	OK
+China	ಚೀನಾ	4/4	7/7	OK
+Chitradurga	ಚಿತ್ರದುರ್ಗ	2/2	2/2	OK
+Chittor	ಚಿತ್ತೋಡ್	1/1	1/1	OK
+Cholas	ಚೋಳರು	5/5	5/5	OK
+Choose the correct answer from the options given below:	ಕೆಳಗೆ ನೀಡಿರುವ ಆಯ್ಕೆಗಳಿಂದ ಸರಿಯಾದ ಉತ್ತರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:	11/11	12/12	OK
+coin	ನಾಣ್ಯ	2/2	2/2	OK
+coins	ನಾಣ್ಯಗಳು	6/6	5/5	OK
+commander-in-chief	ಸೇನಾಪತಿ	1/1	2/2	OK
+commentary	ವ್ಯಾಖ್ಯಾನ	1/1	2/2	OK
+commentary (bhashya)	ವ್ಯಾಖ್ಯಾನ	1/1	2/2	OK
+Commission	ಆಯೋಗ	1/1	1/1	OK
+committee	ಸಮಿತಿ	3/3	1/1	OK
+contingent	ತಂಡ	2/2	1/1	OK
+copper	ತಾಮ್ರ	6/6	4/4	OK
+coronation	ಪಟ್ಟಾಭಿಷೇಕ	2/2	1/1	OK
+Correct Option: (c)	ಸರಿಯಾದ ಆಯ್ಕೆ: (c)	100/100	100/100	OK
+court (royal court)	ಆಸ್ಥಾನ	14/14	15/15	OK
+Dara Shukoh	ದಾರಾ ಶುಕೋ	1/1	1/1	OK
+Deccan	ದಖನ್	8/8	3/3	OK
+Delhi	ದೆಹಲಿ	13/13	14/14	OK
+Delhi Sultanate	ದೆಹಲಿ ಸುಲ್ತಾನರು	3/3	1/1	OK
+delta	ಮುಖಜ ಭೂಮಿ	1/1	1/1	OK
+Department	ಇಲಾಖೆ	3/3	5/5	OK
+Department of Financial Services	ಹಣಕಾಸು ಸೇವೆಗಳ ಇಲಾಖೆ	1/1	1/1	OK
+desh (district)	ದೇಶ್	2/2	1/1	OK
+Deva Raya II	ಇಮ್ಮಡಿ ದೇವರಾಯ	1/1	1/1	OK
+dhamma mahamattas	ಧಮ್ಮ ಮಹಾಮಾತ್ರರು	1/1	1/1	OK
+Dharmasutras	ಧರ್ಮಸೂತ್ರಗಳು	1/1	1/1	OK
+Dharwad	ಧಾರವಾಡ	3/3	3/3	OK
+district	ಜಿಲ್ಲೆ	7/7	11/11	OK
+dome	ಗುಮ್ಮಟ	1/1	2/2	OK
+drama	ನಾಟಕ	2/2	6/6	OK
+Dravida style	ದ್ರಾವಿಡ	1/1	2/2	OK
+Dwaraka	ದ್ವಾರಕ	1/1	1/1	OK
+Egypt	ಈಜಿಪ್ಟ್	1/1	1/1	OK
+elephants	ಆನೆ	5/5	4/4	OK
+emperor	ಚಕ್ರವರ್ತಿ	5/5	5/5	OK
+empire	ಸಾಮ್ರಾಜ್ಯ	12/12	10/10	OK
+enlightenment	ಜ್ಞಾನೋದಯ	1/1	1/1	OK
+epic	ಮಹಾಕಾವ್ಯ	1/1	2/2	OK
+Exam Fact:	ಪರೀಕ್ಷಾ ಸಂಗತಿ:	100/100	100/100	OK
+Fatehpur Sikri	ಫತೇಪುರ	1/1	2/2	OK
+Firuz Shah Tughlaq	ಫಿರೋಜ್	1/1	1/1	OK
+fort	ಕೋಟೆ	4/4	9/9	OK
+founder	ಸ್ಥಾಪಕ	9/9	5/5	OK
+founder (of a dynasty)	ಸ್ಥಾಪಕ	9/9	5/5	OK
+Gadag	ಗದಗ	2/2	2/2	OK
+Gadugina Bharata	ಗದುಗಿನ ಭಾರತ	1/1	1/1	OK
+Gandhara	ಗಾಂಧಾರ	2/2	2/2	OK
+Ganesha	ಗಣೇಶ	1/1	1/1	OK
+Ganga	ಗಂಗಾ	7/7	8/8	OK
+Gangaikonda Cholapuram	ಗಂಗೈಕೊಂಡ	1/1	1/1	OK
+Gangas	ಗಂಗರು	1/1	3/3	OK
+Gangas (of Talakadu)	ಗಂಗರು	1/1	3/3	OK
+garbhagriha	ಗರ್ಭಗೃಹ	1/1	3/3	OK
+Garuda	ಗರುಡ	3/3	1/1	OK
+Garuda (Rashtrakuta emblem)	ಗರುಡ	3/3	1/1	OK
+gazetteer	ಗೆಜೆಟಿಯರ್	11/11	11/11	OK
+Ghiyasuddin Tughlaq	ಘಿಯಾಸುದ್ದೀನ್	1/1	3/3	OK
+Gingee (Jinji)	ಜಿಂಜಿ	1/1	1/1	OK
+Gol Gumbaz	ಗೋಲ್‌ಗುಂಬಜ್	1/1	1/1	OK
+gold	ಚಿನ್ನ	6/6	3/3	OK
+Government backgrounder	ಸರ್ಕಾರದ ಹಿನ್ನೆಲೆ ಟಿಪ್ಪಣಿ (backgrounder)	1/1	1/1	OK
+Government of Karnataka	ಕರ್ನಾಟಕ ಸರ್ಕಾರ	1/1	3/3	OK
+Greek	ಗ್ರೀಕ್	5/5	5/5	OK
+guerrilla warfare	ಗೆರಿಲ್ಲಾ ಯುದ್ಧತಂತ್ರ	1/1	1/1	OK
+Gujarat	ಗುಜರಾತ್	11/11	5/5	OK
+Guptas	ಗುಪ್ತರು	2/2	1/1	OK
+Guru Arjan	ಗುರು ಅರ್ಜುನ್	1/1	1/1	OK
+Guru Hargobind	ಗುರು ಹರಗೋವಿಂದ್	1/1	1/1	OK
+Guru Tegh Bahadur	ಗುರು ತೇಗ್ ಬಹದ್ದೂರ್	1/1	1/1	OK
+Halebidu	ಹಳೇಬೀಡು	1/1	2/2	OK
+Hampi	ಹಂಪಿ	4/4	2/2	OK
+Handbook of Karnataka 2020, p. 1032	ಹ್ಯಾಂಡ್‌ಬುಕ್ ಆಫ್ ಕರ್ನಾಟಕ 2020, ಪು. 1032	1/1	1/1	OK
+Hangal	ಹಾನಗಲ್	1/1	1/1	OK
+Harappa	ಹರಪ್ಪ	1/1	2/2	OK
+Harappan civilisation	ಹರಪ್ಪ ನಾಗರಿಕತೆ	2/2	2/2	OK
+Harihara (deity)	ಹರಿಹರ	2/2	4/4	OK
+Harihara (poet)	ಹರಿಹರ	2/2	4/4	OK
+Harihara II	ಎರಡನೆಯ ಹರಿಹರ	1/1	1/1	OK
+Harishchandra Kavya	ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ	1/1	1/1	OK
+Harshavardhana	ಹರ್ಷವರ್ಧನ	7/7	1/1	OK
+Haryana	ಹರಿಯಾಣ	1/1	3/3	OK
+heir	ವಾರಸುದಾರ	1/1	1/1	OK
+Hemasena	ಹೇಮಸೇನ	1/1	1/1	OK
+Hindi	ಹಿಂದಿ	1/1	4/4	OK
+Hindu	ಹಿಂದೂ	2/2	2/2	OK
+Hindustan	ಹಿಂದೂಸ್ತಾನ	1/1	1/1	OK
+Hoysalas	ಹೊಯ್ಸಳರು	4/4	4/4	OK
+Humayun	ಹುಮಾಯೂನ್	3/3	1/1	OK
+Hyderabad	ಹೈದರಾಬಾದ್	1/1	1/1	OK
+Ibrahim Adil Shah II	ಎರಡನೆಯ ಇಬ್ರಾಹಿಂ ಆದಿಲ್‌ಷಾ	2/2	2/2	OK
+Ibrahim Lodi	ಲೋದಿ	1/1	1/1	OK
+II PUC History, Ch 4.3, PDF p. 60	ದ್ವಿತೀಯ ಪಿಯುಸಿ ಇತಿಹಾಸ, ಅಧ್ಯಾಯ 4.3, PDF ಪು. 60	1/1	1/1	OK
+Iltutmish	ಇಲ್ತಮಶ್	2/2	2/2	OK
+implementing agency	ಅನುಷ್ಠಾನ ಸಂಸ್ಥೆ	1/1	1/1	OK
+inscription	ಶಾಸನ	11/11	5/5	OK
+iron	ಕಬ್ಬಿಣ	4/4	4/4	OK
+It gives all four pairs correctly.	ಇದು ನಾಲ್ಕೂ ಜೋಡಿಗಳನ್ನು ಸರಿಯಾಗಿ ನೀಡುತ್ತದೆ.	3/3	3/3	OK
+Jagadekamalla II	ಎರಡನೆಯ ಜಗದೇಕಮಲ್ಲ	1/1	1/1	OK
+Jagadguru	ಜಗದ್ಗುರು	2/2	1/1	OK
+jagir	ಜಹಗೀರು	1/1	1/1	OK
+Jahangir	ಜಹಾಂಗೀರ್	1/1	4/4	OK
+Jain	ಜೈನ	2/2	4/4	OK
+Jainism	ಜೈನ ಧರ್ಮ	3/3	6/6	OK
+Japan	ಜಪಾನ್	1/1	2/2	OK
+Jayasimha	ಜಯಸಿಂಹ	1/1	2/2	OK
+Jharkhand	ಜಾರ್ಖಂಡ್	1/1	1/1	OK
+Jinji	ಜಿಂಜಿ	1/1	1/1	OK
+Justification:	ಸಮರ್ಥನೆ:	100/100	100/100	OK
+Kabul	ಕಾಬೂಲ್	1/1	1/1	OK
+Kadambas	ಕದಂಬರು	3/3	2/2	OK
+Kaladi	ಕಾಲಡಿ	1/1	1/1	OK
+Kalidasa	ಕಾಳಿದಾಸ	1/1	1/1	OK
+Kalinga	ಕಳಿಂಗ	1/1	1/1	OK
+Kalyana	ಕಲ್ಯಾಣ	9/9	6/6	OK
+Kamath, A Concise History of Karnataka, p. 24	ಕಾಮತ್, A Concise History of Karnataka, ಪು. 24	1/1	1/1	OK
+Kanakadasa	ಕನಕದಾಸ	1/1	3/3	OK
+Kanchi	ಕಂಚಿ	1/1	3/3	OK
+Kanishka	ಕನಿಷ್ಕ	3/3	3/3	OK
+Kannada	ಕನ್ನಡ	10/10	18/18	OK
+Karanika	ಕರಣಿಕ	2/2	1/1	OK
+Karanika (Basava's post)	ಕರಣಿಕ	2/2	1/1	OK
+Karnataka Bharata Kathamanjari	ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ	1/1	1/1	OK
+Karnataka Gazetteer 1982, Part 1, p. 217	ಕರ್ನಾಟಕ ಗೆಜೆಟಿಯರ್ 1982, ಭಾಗ 1, ಪು. 217	1/1	1/1	OK
+Kashmir	ಕಾಶ್ಮೀರ	3/3	5/5	OK
+Kautilya	ಕೌಟಿಲ್ಯ	3/3	1/1	OK
+Kaveri	ಕಾವೇರಿ	1/1	2/2	OK
+Kaveripattinam	ಕಾವೇರಿಪಟ್ಟಣ	1/1	1/1	OK
+Kayakave Kailasa	ಕಾಯಕವೇ ಕೈಲಾಸ	1/1	1/1	OK
+Kayakave Kailasa (Work is Worship)	ಕಾಯಕವೇ ಕೈಲಾಸ	1/1	1/1	OK
+Kerala	ಕೇರಳ	3/3	1/1	OK
+Khetri	ಖೇತ್ರಿ	1/1	1/1	OK
+Khusru II (Persian king)	ಎರಡನೆಯ ಖುಸ್ರು	1/1	1/1	OK
+king	ರಾಜ	27/27	19/19	OK
+kingdom	ರಾಜ್ಯ	13/13	12/12	OK
+knowledge (jnana)	ಜ್ಞಾನ	2/2	1/1	OK
+Koppal	ಕೊಪ್ಪಳ	1/1	1/1	OK
+Kovalan	ಕೋವಲನ್	1/1	1/1	OK
+Krishnadevaraya	ಕೃಷ್ಣದೇವರಾಯ	1/1	3/3	OK
+kshatriya	ಕ್ಷತ್ರಿಯ	1/1	1/1	OK
+Kumarasambhava	ಕುಮಾರಸಂಭವ	1/1	2/2	OK
+Kumaravyasa	ಕುಮಾರವ್ಯಾಸ	1/1	2/2	OK
+Lahore	ಲಾಹೋರ್	2/2	1/1	OK
+Lakkundi	ಲಕ್ಕುಂಡಿ	1/1	1/1	OK
+land revenue	ಭೂಕಂದಾಯ	4/4	3/3	OK
+lapis lazuli	ವೈಡೂರ್ಯ (lapis lazuli)	1/1	1/1	OK
+Later Vedic period	ಉತ್ತರ ವೇದ ಕಾಲ	1/1	1/1	OK
+library	ಗ್ರಂಥಾಲಯ	2/2	2/2	OK
+Lieutenant Governor	ಲೆಫ್ಟಿನೆಂಟ್ ಗವರ್ನರ್	1/1	1/1	OK
+Lieutenant Governor (LG)	ಲೆಫ್ಟಿನೆಂಟ್ ಗವರ್ನರ್	1/1	1/1	OK
+literature	ಸಾಹಿತ್ಯ	4/4	12/12	OK
+Lothal	ಲೋಥಾಲ್	2/2	3/3	OK
+Madhvacharya	ಮಧ್ವಾಚಾರ್ಯ	2/2	1/1	OK
+Madhya Pradesh	ಮಧ್ಯ ಪ್ರದೇಶ	3/3	1/1	OK
+Magadha	ಮಗಧ	4/4	1/1	OK
+Mahabalipuram	ಮಹಾಬಲಿಪುರ	1/1	2/2	OK
+Mahabharata	ಮಹಾಭಾರತ	2/2	2/2	OK
+Mahadeva	ಮಹಾದೇವ	2/2	1/1	OK
+Mahajanapada	ಮಹಾಜನಪದ	1/1	2/2	OK
+Maharashtra	ಮಹಾರಾಷ್ಟ್ರ	5/5	1/1	OK
+Mahavira	ಮಹಾವೀರ	1/1	4/4	OK
+Mahayana	ಮಹಾಯಾನ	2/2	5/5	OK
+Mahendravarma	ಮಹೇಂದ್ರವರ್ಮ	1/1	1/1	OK
+Malwa	ಮಾಳ್ವ	2/2	3/3	OK
+Mandala	ಮಂಡಲ	1/1	2/2	OK
+mandalam	ಮಂಡಲಂ	1/1	1/1	OK
+Marathas	ಮರಾಠರು	3/3	1/1	OK
+Marathi	ಮರಾಠಿ	1/1	3/3	OK
+marble	ಅಮೃತಶಿಲೆ	1/1	2/2	OK
+March of Karnataka (source citation)	ಮಾರ್ಚ್ ಆಫ್ ಕರ್ನಾಟಕ (March of Karnataka)	1/1	2/2	OK
+Maski	ಮಸ್ಕಿ	1/1	1/1	OK
+Matta Vilasa Prahasana	ಮತ್ತವಿಲಾಸ ಪ್ರಹಸನ	1/1	1/1	OK
+Megasthenes	ಮೆಗಸ್ತನೀಸ್	3/3	1/1	OK
+member	ಸದಸ್ಯ	2/2	1/1	OK
+merchant	ವ್ಯಾಪಾರಿ	2/2	3/3	OK
+Mesopotamia	ಮೆಸಪಟೊಮಿಯಾ	2/2	1/1	OK
+Mewar	ಮೇವಾರ	1/1	1/1	OK
+Ministry	ಸಚಿವಾಲಯ	4/4	3/3	OK
+Ministry of MSME	ಸೂಕ್ಷ್ಮ, ಸಣ್ಣ ಮತ್ತು ಮಧ್ಯಮ ಉದ್ದಿಮೆಗಳ ಸಚಿವಾಲಯ (MSME)	1/1	1/1	OK
+Mohanatarangini	ಮೋಹನತರಂಗಿಣಿ	1/1	1/1	OK
+Mohenjodaro	ಮೊಹೆಂಜೋದಾರೊ	2/2	3/3	OK
+monarchy	ರಾಜಪ್ರಭುತ್ವ	1/1	1/1	OK
+Mongols	ಮಂಗೋಲರು	1/1	1/1	OK
+monolithic	ಏಕಶಿಲಾ	1/1	3/3	OK
+monument	ಸ್ಮಾರಕ	1/1	5/5	OK
+mosque	ಮಸೀದಿ	2/2	5/5	OK
+Mudrarakshasa	ಮುದ್ರಾರಾಕ್ಷಸ	2/2	1/1	OK
+Mughals	ಮೊಘಲರು	3/3	5/5	OK
+Muhammad Adil Shah	ಮಹಮ್ಮದ್ ಆದಿಲ್‌ಷಾ	1/1	1/1	OK
+Muhammad bin Tughlaq	ಬಿನ್ ತುಘಲಕ್	1/1	2/2	OK
+Mukteshwara temple	ಮುಕ್ತೇಶ್ವರ	1/1	1/1	OK
+Mulk-e-Maidan	ಮುಲ್ಕ್	1/1	1/1	OK
+Multan	ಮುಲ್ತಾನ್	2/2	1/1	OK
+Mumbai	ಮುಂಬೈ	1/1	1/1	OK
+Muslim	ಮುಸ್ಲಿಂ	1/1	4/4	OK
+Myanmar	ಮ್ಯಾನ್ಮಾರ್	1/1	1/1	OK
+Nadu	ನಾಡು	16/16	11/11	OK
+Nagarjuna	ನಾಗಾರ್ಜುನ	1/1	1/1	OK
+Nalanda	ನಳಂದ	3/3	2/2	OK
+Narmada	ನರ್ಮದಾ	3/3	2/2	OK
+Nasik	ನಾಸಿಕ್	1/1	1/1	OK
+navaranga	ನವರಂಗ	1/1	1/1	OK
+navy	ನೌಕಾಪಡೆ	4/4	1/1	OK
+Neminatha	ನೇಮಿನಾಥ	1/1	2/2	OK
+New Delhi	ನವದೆಹಲಿ	4/4	7/7	OK
+numismatics	ನಾಣ್ಯಶಾಸ್ತ್ರ	1/1	1/1	OK
+Odisha	ಒಡಿಶಾ	2/2	1/1	OK
+official language	ಅಧಿಕೃತ ಭಾಷೆ	1/1	2/2	OK
+Padma Bhushan	ಪದ್ಮಭೂಷಣ	1/1	1/1	OK
+Pakistan	ಪಾಕಿಸ್ತಾನ	3/3	3/3	OK
+palace	ಅರಮನೆ	1/1	6/6	OK
+Palas	ಪಾಲರು	1/1	1/1	OK
+Palkurike Somanatha	ಪಾಲ್ಕುರಿಕೆ ಸೋಮನಾಥ	1/1	2/2	OK
+Pallavas	ಪಲ್ಲವರು	1/1	7/7	OK
+Panchatantra	ಪಂಚತಂತ್ರ	1/1	1/1	OK
+Pandyas	ಪಾಂಡ್ಯರು	2/2	2/2	OK
+Panipat	ಪಾಣಿಪತ್	1/1	2/2	OK
+Parshvanatha	ಪಾರ್ಶ್ವನಾಥ	1/1	1/1	OK
+Pataliputra	ಪಾಟಲಿಪುತ್ರ	1/1	2/2	OK
+Pawan Hans Limited	ಪವನ್ ಹಂಸ್ ಲಿಮಿಟೆಡ್	1/1	1/1	OK
+Pawan Hans Limited (PHL)	ಪವನ್ ಹಂಸ್ ಲಿಮಿಟೆಡ್ (PHL)	1/1	1/1	OK
+pen name (ankita)	ಅಂಕಿತ	1/1	1/1	OK
+Permadideva	ಪೆರ್ಮಾಡಿದೇವ	1/1	1/1	OK
+Persia	ಪರ್ಷಿಯಾ	2/2	2/2	OK
+Persian (language)	ಪರ್ಷಿಯನ್	6/6	10/10	OK
+pilgrim	ಯಾತ್ರಿಕ	1/1	1/1	OK
+plough	ನೇಗಿಲು	1/1	1/1	OK
+poet	ಕವಿ	7/7	5/5	OK
+port	ಬಂದರು	1/1	2/2	OK
+Portuguese	ಪೋರ್ಚುಗೀಸರು	5/5	1/1	OK
+pottery	ಮಡಕೆ	1/1	2/2	OK
+pradesikas	ಪ್ರಾದೇಶಿಕರು	1/1	1/1	OK
+Prakrit	ಪ್ರಾಕೃತ	4/4	2/2	OK
+Prime Minister	ಪ್ರಧಾನಮಂತ್ರಿ	6/6	3/3	OK
+produce (crop share)	ಉತ್ಪನ್ನ	3/3	1/1	OK
+project cost	ಯೋಜನಾ ವೆಚ್ಚ	1/1	1/1	OK
+prose	ಗದ್ಯ	4/4	2/2	OK
+province	ಪ್ರಾಂತ್ಯ	2/2	3/3	OK
+provinces	ಪ್ರಾಂತ್ಯ	4/4	4/4	OK
+Puhar	ಪುಹಾರ್	1/1	1/1	OK
+Pulakeshi	ಪುಲಿಕೇಶಿ	3/3	2/2	OK
+Pulakeshi II	ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ	3/3	2/2	OK
+Pulakeshi II (Pulakeshin II)	ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ	3/3	2/2	OK
+Pune	ಪುಣೆ	1/1	1/1	OK
+Punjab	ಪಂಜಾಬ್	3/3	2/2	OK
+queen	ರಾಣಿ	3/3	5/5	OK
+Qutb Minar	ಕುತುಬ್ ಮಿನಾರ್	1/1	1/1	OK
+R.S. Sharma, Ancient India	ಆರ್.ಎಸ್. ಶರ್ಮಾ, Ancient India	9/9	5/5	OK
+Raghava Pandaviya	ರಾಘವ ಪಾಂಡವೀಯ	1/1	1/1	OK
+Raghavanka	ರಾಘವಾಂಕ	1/1	1/1	OK
+Raghuvamsha	ರಘುವಂಶ	1/1	1/1	OK
+Raichur	ರಾಯಚೂರು	2/2	2/2	OK
+Rajasthan	ರಾಜಸ್ಥಾನ	7/7	3/3	OK
+Rajendra Chola	ರಾಜೇಂದ್ರ	1/1	3/3	OK
+Rajendra Chola I	ಒಂದನೆಯ ರಾಜೇಂದ್ರ ಚೋಳ	1/1	2/2	OK
+Rakshasa (Nanda minister)	ರಾಕ್ಷಸ	1/1	1/1	OK
+Ramanujacharya	ರಾಮಾನುಜಾಚಾರ್ಯ	1/1	1/1	OK
+Ramayana	ರಾಮಾಯಣ	1/1	2/2	OK
+Ranna	ರನ್ನ	1/1	2/2	OK
+Rashtrakutas	ರಾಷ್ಟ್ರಕೂಟರು	5/5	3/3	OK
+reign	ಆಳ್ವಿಕೆ	10/10	9/9	OK
+relics (of the Buddha)	ಅವಶೇಷಗಳು	1/1	1/1	OK
+Reserve Bank of India	ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್	1/1	1/1	OK
+Reserve Bank of India (RBI)	ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ (RBI)	1/1	1/1	OK
+Result:	ತೀರ್ಮಾನ:	100/100	100/100	OK
+revenue	ಕಂದಾಯ	7/7	5/5	OK
+Rigveda	ಋಗ್ವೇದ	1/1	1/1	OK
+Ritusamhara	ಋತುಸಂಹಾರ	1/1	1/1	OK
+Roman	ರೋಮನ್	1/1	2/2	OK
+sacrifice (Vedic)	ಯಾಗ / ಯಜ್ಞ	5/5	1/1	OK
+Sakas	ಶಕರು	1/1	1/1	OK
+Salient Features:	ಪ್ರಮುಖ ಅಂಶಗಳು:	100/100	100/100	OK
+Sangeeta Chudamani	ಸಂಗೀತ ಚೂಡಾಮಣಿ	1/1	1/1	OK
+Sanskrit	ಸಂಸ್ಕೃತ	10/10	16/16	OK
+Satavahanas	ಶಾತವಾಹನರು	2/2	2/2	OK
+script	ಲಿಪಿ	3/3	1/1	OK
+sculpture	ಶಿಲ್ಪ	2/2	2/2	OK
+sea trade	ಸಮುದ್ರ ವ್ಯಾಪಾರ	1/1	1/1	OK
+seal	ಮುದ್ರೆ	1/1	1/1	OK
+seals	ಮುದ್ರೆಗಳು	1/1	1/1	OK
+Secretary	ಕಾರ್ಯದರ್ಶಿ	1/1	1/1	OK
+sect	ಪಂಥ	1/1	1/1	OK
+Seleucus	ಸೆಲ್ಯೂಕಸ್	1/1	1/1	OK
+Shah Jahan	ಷಹಜಹಾನ್	2/2	3/3	OK
+Shakti	ಶಕ್ತಿ	1/1	1/1	OK
+Shankaracharya	ಶಂಕರಾಚಾರ್ಯ	1/1	2/2	OK
+shatpadi	ಷಟ್ಪದಿ	1/1	1/1	OK
+shell	ಶಂಖ	1/1	1/1	OK
+Sher Shah	ಶೇರ್‌ಷಾ	1/1	2/2	OK
+shikhara	ಶಿಖರ	3/3	1/1	OK
+shikhara (tower over the sanctum)	ಶಿಖರ	3/3	1/1	OK
+Shiva	ಶಿವ	3/3	5/5	OK
+Shivaji	ಶಿವಾಜಿ	4/4	2/2	OK
+Siddhartha	ಸಿದ್ಧಾರ್ಥ	1/1	1/1	OK
+siege	ಮುತ್ತಿಗೆ	1/1	1/1	OK
+Sikh	ಸಿಖ್	1/1	1/1	OK
+silver	ಬೆಳ್ಳಿ	4/4	4/4	OK
+Sindh	ಸಿಂಧ್	2/2	2/2	OK
+Sinhagad	ಸಿಂಹಗಡ	1/1	1/1	OK
+Smriti	ಸ್ಮೃತಿ	2/2	1/1	OK
+Somanathapura	ಸೋಮನಾಥಪುರ	1/1	1/1	OK
+Someshwara I	ಒಂದನೆಯ ಸೋಮೇಶ್ವರ	1/1	1/1	OK
+Sri Lanka	ಶ್ರೀಲಂಕಾ	5/5	1/1	OK
+Stone Age	ಶಿಲಾಯುಗ	1/1	2/2	OK
+successor	ಉತ್ತರಾಧಿಕಾರಿ	7/7	4/4	OK
+Sultan	ಸುಲ್ತಾನ್	8/8	1/1	OK
+Surya	ಸೂರ್ಯ	1/1	1/1	OK
+Tailapa II	ಎರಡನೆಯ ತೈಲಪ	1/1	1/1	OK
+Taj Bavadi	ತಾಜ್ ಬಾವಡಿ	1/1	1/1	OK
+Talakadu	ತಲಕಾಡು	1/1	1/1	OK
+Tamil	ತಮಿಳು	16/16	14/14	OK
+Tamil Nadu	ತಮಿಳುನಾಡು	16/16	9/9	OK
+Taxila	ತಕ್ಷಶಿಲೆ	1/1	2/2	OK
+Telugu	ತೆಲುಗು	1/1	3/3	OK
+temple	ದೇವಾಲಯ	12/12	12/12	OK
+terracotta	ಸುಟ್ಟ ಮಣ್ಣಿನ (ಟೆರಾಕೋಟಾ)	1/1	2/2	OK
+Thailand	ಥೈಲ್ಯಾಂಡ್	1/1	1/1	OK
+Thanjavur	ತಂಜಾವೂರು	3/3	2/2	OK
+This statement is correct, so it is not the answer.	ಈ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಉತ್ತರವಲ್ಲ.	4/4	1/1	OK
+Tirthankara	ತೀರ್ಥಂಕರ	1/1	3/3	OK
+torana	ತೋರಣ	1/1	1/1	OK
+traveller	ಪ್ರವಾಸಿ	4/4	1/1	OK
+traveller (foreign)	ಪ್ರವಾಸಿ / ವಿದೇಶಿ ಪ್ರವಾಸಿ	4/4	1/1	OK
+treaty	ಒಪ್ಪಂದ	2/2	1/1	OK
+Tribhuvanamalla	ತ್ರಿಭುವನಮಲ್ಲ	1/1	1/1	OK
+Tungabhadra	ತುಂಗಭದ್ರಾ	1/1	2/2	OK
+Turkish	ತುರ್ಕಿ	3/3	1/1	OK
+two decades	ಎರಡು ದಶಕಗಳು	1/1	1/1	OK
+Udupi	ಉಡುಪಿ	1/1	1/1	OK
+Urdu	ಉರ್ದು	1/1	2/2	OK
+Uttar Pradesh	ಉತ್ತರ ಪ್ರದೇಶ	5/5	4/4	OK
+Uttara Kannada	ಉತ್ತರ ಕನ್ನಡ	2/2	1/1	OK
+Uttara Kannada district	ಉತ್ತರ ಕನ್ನಡ	1/1	1/1	OK
+vachana	ವಚನ	1/1	2/2	OK
+vachanakaras	ವಚನಕಾರರು	1/1	1/1	OK
+vachanas	ವಚನಗಳು	1/1	3/3	OK
+Vadibhasimha	ವಾದೀಭಸಿಂಹ	1/1	1/1	OK
+Vaishali	ವೈಶಾಲಿ	1/1	3/3	OK
+Varaha	ವರಾಹ	1/1	1/1	OK
+Varaha (boar emblem)	ವರಾಹ	1/1	1/1	OK
+Vasudeva (Krishna)	ವಾಸುದೇವ	1/1	1/1	OK
+Vatsa	ವತ್ಸ	1/1	1/1	OK
+Vedanta	ವೇದಾಂತ	1/1	1/1	OK
+Vedas	ವೇದಗಳು	1/1	8/8	OK
+Vellore	ವೆಲ್ಲೂರು	1/1	1/1	OK
+Vengi	ವೆಂಗಿ	1/1	1/1	OK
+Vidisha	ವಿದಿಶಾ	1/1	1/1	OK
+Vidyashankara temple	ವಿದ್ಯಾಶಂಕರ	1/1	1/1	OK
+Vijaya Vitthala temple	ವಿಜಯ ವಿಠಲಸ್ವಾಮಿ ದೇವಾಲಯ	1/1	1/1	OK
+Vijayanagara	ವಿಜಯನಗರ	13/13	10/10	OK
+Vijayanagara empire	ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ	3/3	2/2	OK
+Vijayapura	ವಿಜಯಪುರ	4/4	5/5	OK
+Vijayapura (Bijapur)	ವಿಜಯಪುರ	4/4	5/5	OK
+Vikramaditya	ವಿಕ್ರಮಾದಿತ್ಯ	4/4	3/3	OK
+Vikramaditya VI	ಆರನೆಯ ವಿಕ್ರಮಾದಿತ್ಯ	4/4	1/1	OK
+Vikramashila	ವಿಕ್ರಮಶಿಲಾ	1/1	1/1	OK
+Vikramashila (university)	ವಿಕ್ರಮಶಿಲಾ	1/1	1/1	OK
+village	ಗ್ರಾಮ	8/8	2/2	OK
+Virupaksha	ವಿರೂಪಾಕ್ಷ	1/1	1/1	OK
+Vishakhadatta	ವಿಶಾಖದತ್ತ	2/2	1/1	OK
+Vishaya	ವಿಷಯ	1/1	1/1	OK
+Vishishtadvaita	ವಿಶಿಷ್ಟಾದ್ವೈತ	1/1	1/1	OK
+Vishnu	ವಿಷ್ಣು	5/5	5/5	OK
+Vishnugupta	ವಿಷ್ಣುಗುಪ್ತ	1/1	1/1	OK
+Vishnuvardhana	ವಿಷ್ಣುವರ್ಧನ	3/3	1/1	OK
+Vitthala (deity)	ವಿಠಲ	1/1	1/1	OK
+Vitthala temple	ವಿಠಲ	1/1	1/1	OK
+West Bengal	ಪಶ್ಚಿಮ ಬಂಗಾಳ	1/1	1/1	OK
+wheat	ಗೋಧಿ	1/1	1/1	OK
+William Jones	ವಿಲಿಯಂ ಜೋನ್ಸ್	1/1	1/1	OK
+Wodeyars	ಒಡೆಯರು	2/2	2/2	OK
+Wodeyars of Mysore	ಮೈಸೂರು ಒಡೆಯರು	1/1	1/1	OK
+Yamuna	ಯಮುನಾ	1/1	3/3	OK
+yuktas	ಯುಕ್ತರು	1/1	1/1	OK
+Yusuf Adil Khan	ಯೂಸುಫ್ ಆದಿಲ್ ಖಾನ್	2/2	1/1	OK

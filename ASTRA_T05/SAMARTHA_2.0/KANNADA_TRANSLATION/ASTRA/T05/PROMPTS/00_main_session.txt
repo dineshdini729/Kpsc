@@ -1,0 +1,40 @@
+Paste this as the first message to Claude Code (model: Claude Opus 5.5).
+Before you paste it:
+1. Put ASTRA_T05_KANNADA_RESUME_PACKAGE.zip in an empty folder.
+2. Open Claude Code in that folder.
+Nothing else is needed.
+
+Finish the ASTRA Test 3 Kannada edition (FDA and SDA) on this machine, independently. These are the owner's rulings of 23-11-2026:
+- This machine completes the work from this package alone.
+- There is no Gemini step.
+- Nothing returns to another machine.
+- The two zips this run produces are the final deliverables.
+
+All 200 items are already translated. What remains is the back-check, the corrections, the build, the checks and the zips.
+
+Read, in this order, and follow them exactly:
+1. SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/RUNBOOK_OTHER_MACHINE.md — the steps.
+2. SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/DECISIONS_FOR_CONTINUATION.md — every judgement call. It is binding.
+
+Setup (do this yourself first):
+- The working folder holds ASTRA_T05_KANNADA_RESUME_PACKAGE.zip. If SAMARTHA_2.0/ does not exist yet, extract the zip here, keeping its folder paths:
+  python -c "import zipfile; zipfile.ZipFile('ASTRA_T05_KANNADA_RESUME_PACKAGE.zip').extractall('.')"
+- Check that Python 3 works. Then install the libraries:
+  python -m pip install python-docx pymupdf
+- If Python itself is missing, stop and tell me; I will install it.
+
+Steps:
+1. Run `python -I -X utf8 SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/verify_package.py`. Continue only if it prints PACKAGE OK. Then create the two output folders, as runbook §2 says.
+2. Back-check all 10 batches in parallel.
+   - Use one NEW general-purpose subagent per batch, with the text of SAMARTHA_2.0/KANNADA_TRANSLATION/ASTRA/T05/PROMPTS/02_backcheck.txt.
+   - Fill in {PAPER}, {NN} and {FOLDER}: FDA in kn_batches, SDA in kn_batches_SDA, batches 01–05.
+3. Settle new terms, dispose of the check rows, and add the settled fixes. Apply them, as runbook §4 says.
+4. Build and check, as runbook §5 says. The gate must show 0 issues. The release check must show 0 hard issues and KN letter == EN letter 100/100 for both papers.
+5. Run the cross-paper term check, as runbook §6 says.
+6. Write the final zips and FINAL_NOTE.md, as runbook §7 says. Send each paper's zip as soon as that paper passes; do not wait for the other.
+
+Rules:
+- Labels: ಪರೀಕ್ಷಾ ಸಂಗತಿ and ತೀರ್ಮಾನ; never ಪರೀಕ್ಷಾ ಸತ್ಯ.
+- Never change a key, an option order or a fact.
+- Run build_t05_docx.py only with KN.
+- Write Kannada only with the Write tool, in UTF-8. Never print Kannada to the console. Run Python with `python -I -X utf8`.

@@ -1,0 +1,72 @@
+english	kannada	source	note	domain	papers
+Guru Tegh Bahadur	ಗುರು ತೇಗ್ ಬಹದ್ದೂರ್	Claude Code adopted (merge §515): SDA list (DSERT); the rank pick ತೇಜ್ was a truncated form	one form in both papers	HISTORY	FDA+SDA
+Which of the statements given above are correct?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾಗಿವೆ?	Claude Code adopted (merge §515): T1/T2 house closing (build_kn_full HARM)	series form	FIXED	FDA+SDA
+Which of the above statements are correct?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾಗಿವೆ?	Claude Code adopted (merge §515): T1/T2 house closing (build_kn_full HARM)	series form	FIXED	FDA+SDA
+battle	ಕದನ	Claude Code adopted (merge §515): DSERT_10_SS1 (31 uses); one form, not a slash pair	battles of named places: <place> ಕದನ	HISTORY	FDA+SDA
+Pawan Hans Limited	ಪವನ್ ಹಂಸ್ ಲಿಮಿಟೆಡ್	Claude Code adopted (merge §515): FDA list; one spelling in both papers	(PHL) only where the English has it	CA	FDA+SDA
+Pawan Hans Limited (PHL)	ಪವನ್ ಹಂಸ್ ಲಿಮಿಟೆಡ್ (PHL)	Claude Code adopted (merge §515)	same form as above	CA	FDA+SDA
+Reserve Bank of India	ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್	Claude Code adopted (merge §515): T1/T2 form; the SDA list's bare ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ dropped	(RBI) where the English has it	CA	FDA+SDA
+Reserve Bank of India (RBI)	ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ (RBI)	Claude Code adopted (merge §515)	same form as above	CA	FDA+SDA
+Muhammad Adil Shah	ಮಹಮ್ಮದ್ ಆದಿಲ್‌ಷಾ	Claude Code adopted (merge §515): SDA list; one spelling in both papers	FDA's "Muhammad (Mahamud) Adil Shah" row takes the same name	HISTORY	FDA+SDA
+Muhammad (Mahamud) Adil Shah	ಮಹಮ್ಮದ್ (ಮಹಮೂದ್) ಆದಿಲ್‌ಷಾ	Claude Code adopted (merge §515)	same spelling as Muhammad Adil Shah	HISTORY	FDA+SDA
+Qutbuddin Aibak	ಕುತ್ಬುದ್ದೀನ್ ಐಬಕ್	Claude Code adopted (merge §515): FDA list full name; SDA's bare ಐಬಕ್ dropped	one form in both papers	HISTORY	FDA+SDA
+Qutb-ud-din Aibak	ಕುತ್ಬುದ್ದೀನ್ ಐಬಕ್	Claude Code adopted (merge §515)	same form	HISTORY	FDA+SDA
+Sher Shah	ಶೇರ್‌ಷಾ	Claude Code adopted (merge §515): FDA list (DSERT, over ಷೇರ್‌ಷಾ); joined with ZWNJ as in FDA	one form in both papers	HISTORY	FDA+SDA
+Sher Shah (Sher Shah Suri)	ಶೇರ್‌ಷಾ (ಶೇರ್‌ಷಾ ಸೂರಿ)	Claude Code adopted (merge §515)	same form	HISTORY	FDA+SDA
+gana / sangha	ಗಣ / ಸಂಘ	Claude Code adopted (merge §515): NCERT's "ganas or sanghas" kept as named terms in both papers (FDA had ಗಣರಾಜ್ಯ, SDA ಸಂಘ)	"ganas or sanghas" → ಗಣಗಳು ಅಥವಾ ಸಂಘಗಳು; "republic" alone stays ಗಣರಾಜ್ಯ	HISTORY	FDA+SDA
+gana / sangha (oligarchy)	ಗಣ / ಸಂಘ	Claude Code adopted (merge §515)	same form	HISTORY	FDA+SDA
+stone chariot	ಕಲ್ಲಿನ ರಥ	Claude Code adopted (merge §515): FDA list; SDA's bare ರಥ dropped	plural ಕಲ್ಲಿನ ರಥಗಳು	HISTORY	FDA+SDA
+stone chariots	ಕಲ್ಲಿನ ರಥಗಳು	Claude Code adopted (merge §515)	same form	HISTORY	FDA+SDA
+dam	ಅಣೆಕಟ್ಟೆ	Claude Code adopted (§516): DSERT and KEA:96; one form for both papers and both domains (the HISTORY list had ಅಣೆಕಟ್ಟು)	the coin "dam" stays ದಾಮ್ (its own row)	CA/HISTORY	FDA+SDA
+biggest beneficiary	ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುವುದು	Claude Code adopted (§516): SDA Q77; the English says no "State", so no ರಾಜ್ಯ is added (Delhi is a Union Territory)	e.g. ದೆಹಲಿ ಅತಿ ಹೆಚ್ಚು ಪ್ರಯೋಜನ ಪಡೆಯುತ್ತದೆ	CA	FDA+SDA
+tribute (homage)	ಶ್ರದ್ಧಾಂಜಲಿ	Claude Code adopted (§516): SDA batch 05 new term; "tribute" alone (payment to a king) stays ಕಪ್ಪ		CA	FDA+SDA
+Ain-i-Akbari	ಐನ್-ಇ-ಅಕ್ಬರಿ	Claude Code adopted (§516): FDA batch 03; the bare ಅಕ್ಬರಿ row was a truncated form		HISTORY	FDA+SDA
+Basavapurana	ಬಸವಪುರಾಣ	Claude Code adopted (§516): FDA batch 03; joined form, as in the Bhimakavi row		HISTORY	FDA+SDA
+Palkurike Somanatha	ಪಾಲ್ಕುರಿಕೆ ಸೋಮನಾಥ	Claude Code adopted (§516): FDA batch 03; the bare ಪಾಲ್ಕುರಿಕೆ row was a truncated form		HISTORY	FDA+SDA
+Thailand	ಥೈಲ್ಯಾಂಡ್	Claude Code adopted (§516): FDA batch 03; one spelling		CA/HISTORY	FDA+SDA
+Allamaprabhu	ಅಲ್ಲಮಪ್ರಭು	Claude Code adopted (§516): FDA batch 03; full name		HISTORY	FDA+SDA
+Bijapur	ಬಿಜಾಪುರ	Claude Code adopted (§516): SDA batch 04; where the English writes the old name alone, the Kannada keeps it; "Vijayapura" stays ವಿಜಯಪುರ	"Vijayapura (Bijapur)" → ವಿಜಯಪುರ (ಬಿಜಾಪುರ)	HISTORY	FDA+SDA
+Devaraya II	ಇಮ್ಮಡಿ ದೇವರಾಯ	Claude Code adopted (§516): SDA batch 02 used it in question and solution; one form for both "Deva Raya II" and "Devaraya II"		HISTORY	FDA+SDA
+Deva Raya II	ಇಮ್ಮಡಿ ದೇವರಾಯ	Claude Code adopted (§516)	same form	HISTORY	FDA+SDA
+commander-in-chief	ಸೇನಾಪತಿ	Claude Code adopted (§516): SDA batch 02; one form, not a slash pair		HISTORY	FDA+SDA
+BCE	ಕ್ರಿ.ಪೂ.	Claude Code adopted (§516): edition brief; DSERT Kannada usage; the glossary row ಸಾ.ಶ.ಪೂ. is not used	"540 BCE" → ಕ್ರಿ.ಪೂ. 540	FIXED	FDA+SDA
+CE	ಕ್ರಿ.ಶ.	Claude Code adopted (§516): edition brief; DSERT Kannada usage	"5th century CE" → ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನ	FIXED	FDA+SDA
+audience hall	ಸಭಾಮಂಟಪ	Claude Code adopted (§517): new-term CONFLICT (FDA b03 ಸಭಾಮಂಟಪ, SDA b01 ದರ್ಬಾರ್ ಸಭಾಂಗಣ); no glossary row for the concept; tie (one batch each, both HISTORY) goes to the FDA form; natural for a temple hall and a palace hall alike	one form in both papers	HISTORY	FDA+SDA
+Firuz Shah Tughlaq	ಫಿರೋಜ್‌ಷಾ ತುಘಲಕ್	Claude Code adopted (§517): new-term CONFLICT; re-uses the glossary's own DSERT row "Muhammad bin Tughlaq / Ghiyasuddin Tughlaq / Firuz Shah Tughlaq" (ZWNJ-joined, as ಶೇರ್‌ಷಾ, ಆದಿಲ್‌ಷಾ); the bare ಫಿರೋಜ್ row was a truncated form	one form in both papers	HISTORY	FDA+SDA
+lord of the peninsula	ಪರ್ಯಾಯ ದ್ವೀಪದ ಒಡೆಯ	Claude Code adopted (§517): new-term CONFLICT (SDA b02 spaced, SDA b04 joined); FDA b01 also writes ಪರ್ಯಾಯ ದ್ವೀಪ spaced, so the spaced form has most batches	one form in both papers	HISTORY	FDA+SDA
+pillar brackets	ಕಂಬಗಳ ಆಧಾರಪಟ್ಟಿಗಳು	Claude Code adopted (§517): new-term CONFLICT (FDA b02 vs b03); re-uses the glossary's "bracket figure" ಕಂಬದ ಆಧಾರಪಟ್ಟಿ ಶಿಲ್ಪ	one form in both papers	HISTORY	FDA+SDA
+Abhidhamma Pitaka	ಅಭಿಧಮ್ಮ ಪಿಟಕ	Claude Code adopted (§517): partial-name row (H): full name as SDA b03 wrote it	one form in both papers	HISTORY	FDA+SDA
+Alai Darwaza	ಅಲಾಯಿ ದರ್ವಾಜ	Claude Code adopted (§517): partial-name row (H): full name as SDA b01/b04 wrote it; ದರ್ವಾಜ is the glossary spelling	one form in both papers	HISTORY	FDA+SDA
+Buland Darwaza	ಬುಲಂದ್ ದರ್ವಾಜ	Claude Code adopted (§517): partial-name row (H): full name; ದರ್ವಾಜ as in the glossary's Alai Darwaza row, so "darwaza" has one spelling	one form in both papers	HISTORY	FDA+SDA
+Amir Khusrau	ಅಮೀರ್ ಖುಸ್ರು	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+Bangladesh	ಬಾಂಗ್ಲಾದೇಶ	Claude Code adopted (§517): partial row (ಬಾಂಗ್ಲಾ) expanded as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Chikkadevaraja Wodeyar	ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರ್	Claude Code adopted (§517): partial-name row (H): full name as SDA b02/b04 wrote it	one form in both papers	HISTORY	FDA+SDA
+Dadoji Kondadeo	ದಾದಾಜಿ ಕೊಂಡದೇವ	Claude Code adopted (§517): partial-name row (H): full name as SDA b03 wrote it	one form in both papers	HISTORY	FDA+SDA
+Dara Shikoh	ದಾರಾ ಶಿಕೋ	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it; also for "Dara Shukoh"	also for "Dara Shukoh" (one form per name, H)	HISTORY	FDA+SDA
+Fatehpur Sikri	ಫತೇಪುರ್ ಸಿಕ್ರಿ	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Gadadhar Singha	ಗದಾಧರ ಸಿಂಹ	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Ghiyasuddin Tughlaq	ಘಿಯಾಸುದ್ದೀನ್ ತುಘಲಕ್	Claude Code adopted (§517): partial-name row (H): full name as FDA b02 and SDA b01/b04 wrote it	one form in both papers	HISTORY	FDA+SDA
+Ibadat Khana	ಇಬಾದತ್ ಖಾನಾ	Claude Code adopted (§517): partial-name row (H): full name as SDA b03 wrote it	one form in both papers	HISTORY	FDA+SDA
+Ibrahim Lodi	ಇಬ್ರಾಹಿಂ ಲೋದಿ	Claude Code adopted (§517): partial-name row (H): full name, as section H gives it	one form in both papers	HISTORY	FDA+SDA
+Indo-Saracenic	ಇಂಡೋ-ಸಾರ್ಸೆನಿಕ್	Claude Code adopted (§517): partial row expanded as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Jalaluddin Khalji	ಜಲಾಲುದ್ದೀನ್ ಖಿಲ್ಜಿ	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+Jedara Dasimayya	ಜೇಡರ ದಾಸಿಮಯ್ಯ	Claude Code adopted (§517): partial-name row (H): full name as SDA b03 wrote it	one form in both papers	HISTORY	FDA+SDA
+Kadri Manjunatha temple	ಕದ್ರಿ ಮಂಜುನಾಥ ದೇವಾಲಯ	Claude Code adopted (§517): partial-name row (H): full name as SDA b04 wrote it	one form in both papers	HISTORY	FDA+SDA
+Lachit Borphukan	ಲಚಿತ್ ಬೊರ್ಫುಕನ್	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Lakkanna Dandesha	ಲಕ್ಕಣ್ಣ ದಂಡೇಶ	Claude Code adopted (§517): partial-name row (H): full name as SDA b03 wrote it	one form in both papers	HISTORY	FDA+SDA
+Marthanda Sun temple	ಮಾರ್ತಾಂಡ ಸೂರ್ಯ ದೇವಾಲಯ	Claude Code adopted (§517): partial-name row (H): full name as SDA b04 wrote it	one form in both papers	HISTORY	FDA+SDA
+minister of finance	ಹಣಕಾಸು ಮಂತ್ರಿ	Claude Code adopted (§517): partial row (ಹಣಕಾಸು) expanded as SDA b01 wrote it; a woman minister takes ಹಣಕಾಸು ಸಚಿವೆ (H)	one form in both papers	HISTORY	FDA+SDA
+Mitravinda Govinda	ಮಿತ್ರವಿಂದಾ ಗೋವಿಂದ	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+Muhammad bin Qasim	ಮಹಮ್ಮದ್ ಬಿನ್ ಕಾಸಿಂ	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Muhammad bin Tughlaq	ಮಹಮ್ಮದ್ ಬಿನ್ ತುಘಲಕ್	Claude Code adopted (§517): partial-name row (H): full name as FDA b02 and SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Mulk-e-Maidan	ಮುಲ್ಕ್-ಎ-ಮೈದಾನ್	Claude Code adopted (§517): partial-name row (H): full name as SDA b01 wrote it	one form in both papers	HISTORY	FDA+SDA
+Nadir Shah	ನಾದಿರ್ ಷಾ	Claude Code adopted (§517): partial-name row (H): full name, as section H gives it	one form in both papers	HISTORY	FDA+SDA
+R.D. Banerjee	ಆರ್.ಡಿ. ಬ್ಯಾನರ್ಜಿ	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+railing (stupa)	ಕಟಕಟೆ	Claude Code adopted (§517): one form, not a slash pair (as the §515 "battle" row); ವೇದಿಕೆ is kept for "platform"; FDA b04 already writes ಕಟಕಟೆ	one form in both papers	HISTORY	FDA+SDA
+Sanchi Honnamma	ಸಂಚಿ ಹೊನ್ನಮ್ಮ	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+Siddharamapurana	ಸಿದ್ದರಾಮಪುರಾಣ	Claude Code adopted (§517): partial-name row (H): full name, joined as the adopted ಬಸವಪುರಾಣ row (§516)	one form in both papers	HISTORY	FDA+SDA
+Tribhuvana Tilaka Chudamani	ತ್ರಿಭುವನ ತಿಲಕ ಚೂಡಾಮಣಿ	Claude Code adopted (§517): partial-name row (H): full title as SDA b04 wrote it	one form in both papers	HISTORY	FDA+SDA
+Vaikunta Perumal temple	ವೈಕುಂಠ ಪೆರುಮಾಳ್ ದೇವಾಲಯ	Claude Code adopted (§517): partial-name row (H): full name as SDA b02 wrote it	one form in both papers	HISTORY	FDA+SDA
+Jami Masjid, Bijapur	ಬಿಜಾಪುರದ ಜಾಮಿ ಮಸೀದಿ	Claude Code adopted (§517): section H (§516): "Bijapur" alone is ಬಿಜಾಪುರ and "Bijapuri" ಬಿಜಾಪುರದ; the DSERT row's ವಿಜಯಪುರದ is superseded	one form in both papers	HISTORY	FDA+SDA
+Vijayapura (Bijapur)	ವಿಜಯಪುರ (ಬಿಜಾಪುರ)	Claude Code adopted (§517): section H (§516): "Vijayapura (Bijapur)" is ವಿಜಯಪುರ (ಬಿಜಾಪುರ); the row's bare ವಿಜಯಪುರ dropped the bracket	one form in both papers	HISTORY	FDA+SDA
+Ekta Nagar, Kevadia, Gujarat	ಗುಜರಾತ್‌ನ ಕೆವಡಿಯಾದ ಏಕತಾ ನಗರ	Claude Code adopted (§517): one spelling of Kevadia in both papers: the FDA row's ಕೆವಡಿಯಾ (tie between the CA lists goes to the FDA form); the SDA row had ಕೆವಾಡಿಯಾ	one form in both papers	CA	FDA+SDA
