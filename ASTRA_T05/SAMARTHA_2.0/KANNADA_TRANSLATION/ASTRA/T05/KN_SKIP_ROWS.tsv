@@ -1,0 +1,6 @@
+id	part	line_no	reason
+MP02-Q083	Q	1	No change proposed (old line = new line). The checker notes the glossary row "forced (unpaid) labour" = ಬಿಟ್ಟಿ ದುಡಿಮೆ must not be used here: ಬಿಟ್ಟಿ derives from ವಿಷ್ಟಿ, the key, so it would leak the answer. Line kept.
+MP05-Q078	Q	1	Re-opens a recorded decision: build_kn_full.py (HARM) sets the house match-stem "ಪಟ್ಟಿ-I ಅನ್ನು ಪಟ್ಟಿ-II ರೊಂದಿಗೆ ಹೊಂದಿಸಿ:"; the line already has ಅನ್ನು.
+T05-AM-FDA-G16	S	5	Changes a glossary term to a non-glossary form: the glossary row is ಬಹಾರ್‌ಖಾನ್ (joined). Fixed the other way instead: option (b) is brought to the glossary form in KN_MANUAL_FIXES.tsv (H: one form per name).
+T05-AM-FDA-G16	S	10	As S5: ಬಹಾರ್‌ಖಾನ್ is the glossary form; the option is fixed to match instead.
+MP03-Q022	Q	7	Changes a glossary term to a non-glossary form: ವರಾಹ (ದೈವಿಕ ವರಾಹ) follows two glossary rows; ದೈವಿಕ ಹಂದಿ is not in the glossary. Left for the glossary owner.

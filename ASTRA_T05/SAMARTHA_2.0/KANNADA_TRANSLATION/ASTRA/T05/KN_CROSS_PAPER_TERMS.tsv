@@ -2,9 +2,7 @@ english	glossary_kannada	FDA_items_with_form	SDA_items_with_form	result
 army	ಸೈನ್ಯ	11/12	7/7	FLAG
 author	ಕರ್ತೃ	6/7	6/6	FLAG
 Bahmani	ಬಹಮನಿ ಸುಲ್ತಾನರು	1/2	1/1	FLAG
-Basavapurana	ಬಸವಪುರಾಣ	1/1	0/2	FLAG
 battle	ಕದನ	4/7	5/5	FLAG
-biography	ಜೀವನ ಚರಿತ್ರೆ	1/2	2/2	FLAG
 Buddhism	ಬೌದ್ಧ ಧರ್ಮ	4/4	7/8	FLAG
 capital	ರಾಜಧಾನಿ	17/18	19/19	FLAG
 corridors	ಕಾರಿಡಾರ್‌ಗಳು	0/1	1/1	FLAG
@@ -12,31 +10,26 @@ festival	ಹಬ್ಬ / ಉತ್ಸವ	2/2	0/1	FLAG
 Guru Arjan (Arjan Dev)	ಗುರು ಅರ್ಜುನ್ ದೇವ್	1/1	0/1	FLAG
 Khalji	ಖಿಲ್ಜಿ ಸಂತತಿ	1/1	1/3	FLAG
 metre (poetic)	ಛಂದಸ್ಸು	1/1	2/3	FLAG
-Middle Stone Age	ಮಧ್ಯಶಿಲಾಯುಗ	0/1	1/1	FLAG
 monk	ಸನ್ಯಾಸಿ	1/1	0/1	FLAG
 MSME	ಸೂಕ್ಷ್ಮ, ಸಣ್ಣ ಮತ್ತು ಮಧ್ಯಮ ಉದ್ದಿಮೆಗಳು (MSME)	1/1	1/2	FLAG
 Muhammad (Mahamud) Adil Shah	ಮಹಮ್ಮದ್ (ಮಹಮೂದ್) ಆದಿಲ್‌ಷಾ	1/1	0/1	FLAG
-Neolithic (New Stone Age)	ನವ ಶಿಲಾಯುಗ	1/1	0/1	FLAG
 painting	ಚಿತ್ರಕಲೆ	1/1	3/4	FLAG
 patronage	ಆಶ್ರಯ	0/2	9/9	FLAG
 per cent	ಶೇ.	4/5	5/5	FLAG
 Sanchi	ಸಾಂಚಿ	1/1	1/2	FLAG
-The statement is false, so it is the answer.	ಈ ಹೇಳಿಕೆ ತಪ್ಪು, ಆದ್ದರಿಂದ ಇದೇ ಉತ್ತರ.	1/2	1/1	FLAG
 title	ಬಿರುದು	11/12	11/11	FLAG
 title (royal)	ಬಿರುದು	11/12	11/11	FLAG
 translation	ಭಾಷಾಂತರ	1/3	2/2	FLAG
 Tughlaq	ತುಘಲಕ್ ಸಂತತಿ	1/1	2/3	FLAG
 Union Minister	ಕೇಂದ್ರ ಸಚಿವ	1/1	2/3	FLAG
-Which of the statements given above are correct?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾಗಿವೆ?	8/9	8/8	FLAG
 account (travel account)	ಪ್ರವಾಸ ಕಥನ	0/6	0/6	BOTH_MISS
-Adil Shahis (of Vijayapura/Bijapur)	ವಿಜಯಪುರದ ಆದಿಲ್‌ಷಾಹಿಗಳು	1/3	0/2	BOTH_MISS
+Adil Shahis (of Vijayapura/Bijapur)	ವಿಜಯಪುರದ ಆದಿಲ್‌ಷಾಹಿಗಳು	0/3	0/2	BOTH_MISS
 All three	ಎಲ್ಲಾ ಮೂರು	1/4	0/3	BOTH_MISS
 approved (on 2 April 2025)	ಅನುಮೋದಿಸಲಾಯಿತು	2/3	0/1	BOTH_MISS
 authority (body)	ಪ್ರಾಧಿಕಾರ	0/3	3/6	BOTH_MISS
 Baburnama (Tuzuk-i-Baburi)	ಬಾಬರ್‌ನಾಮಾ (ತುಝುಕ್-ಇ-ಬಾಬರಿ)	0/1	0/1	BOTH_MISS
 Badami (Vatapi)	ಬಾದಾಮಿ (ವಾತಾಪಿ)	0/5	0/3	BOTH_MISS
 Basaveshwara (Basavanna)	ಬಸವೇಶ್ವರ (ಬಸವಣ್ಣ)	0/1	0/1	BOTH_MISS
-Bijapur	ಬಿಜಾಪುರ	0/5	1/4	BOTH_MISS
 Brihadishvara temple (Rajarajeshvaram)	ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ (ರಾಜರಾಜೇಶ್ವರಂ)	0/2	0/1	BOTH_MISS
 century (e.g. 7th century)	7ನೇ ಶತಮಾನ	2/17	0/15	BOTH_MISS
 claims	ಕ್ಲೇಮ್‌ಗಳು (ವಿಮಾ ಪರಿಹಾರ)	0/1	0/1	BOTH_MISS
@@ -58,7 +51,7 @@ minister	ಸಚಿವ	10/17	7/13	BOTH_MISS
 minister (of a king)	ಮಂತ್ರಿ	7/17	6/13	BOTH_MISS
 None (option)	ಯಾವುದೂ ಇಲ್ಲ	1/2	0/2	BOTH_MISS
 order	ಆದೇಶ	2/10	1/7	BOTH_MISS
-philosophy	ತತ್ತ್ವಶಾಸ್ತ್ರ / ಸಿದ್ಧಾಂತ	0/3	3/5	BOTH_MISS
+philosophy	ತತ್ತ್ವಶಾಸ್ತ್ರ / ಸಿದ್ಧಾಂತ	1/3	3/5	BOTH_MISS
 President (of India)	ರಾಷ್ಟ್ರಪತಿ	1/2	3/5	BOTH_MISS
 Puhar (Kaveripattinam)	ಪುಹಾರ್ (ಕಾವೇರಿಪಟ್ಟಣಂ)	0/1	0/1	BOTH_MISS
 Rajaraja I (Rajaraja Chola)	ಒಂದನೆಯ ರಾಜರಾಜ (ರಾಜರಾಜ ಚೋಳ)	0/2	0/1	BOTH_MISS
@@ -73,6 +66,7 @@ tribute	ಕಪ್ಪ	3/4	1/2	BOTH_MISS
 tribute (homage)	ಶ್ರದ್ಧಾಂಜಲಿ	1/4	1/2	BOTH_MISS
 university	ವಿಶ್ವವಿದ್ಯಾನಿಲಯ	3/4	2/3	BOTH_MISS
 Vedas (four)	ವೇದಗಳು: ಋಗ್ವೇದ, ಯಜುರ್ವೇದ, ಸಾಮವೇದ, ಅಥರ್ವಣ ವೇದ	0/1	0/8	BOTH_MISS
+Vijayapura (Bijapur)	ವಿಜಯಪುರ (ಬಿಜಾಪುರ)	1/4	2/5	BOTH_MISS
 Virupaksha (family deity)	ವಿರೂಪಾಕ್ಷ (ಕುಲದೇವರು)	0/1	0/1	BOTH_MISS
 Which one of the following pairs is NOT correctly matched?	ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ?	0/1	0/2	BOTH_MISS
 Which one of the following statements is NOT correct?	ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಲ್ಲ?	0/4	0/2	BOTH_MISS
@@ -109,6 +103,7 @@ Ashokan edicts	ಅಶೋಕನ ಶಾಸನಗಳು	1/1	1/1	OK
 Ashvaghosha	ಅಶ್ವಘೋಷ	1/1	1/1	OK
 Asian Games 2026	2026ರ ಏಷ್ಯನ್ ಕ್ರೀಡಾಕೂಟ	1/1	2/2	OK
 Assam	ಅಸ್ಸಾಂ	2/2	2/2	OK
+audience hall	ಸಭಾಮಂಟಪ	1/1	1/1	OK
 Aurangzeb	ಔರಂಗಜೇಬ್	4/4	2/2	OK
 autobiography	ಆತ್ಮಚರಿತ್ರೆ	1/1	1/1	OK
 Avanti	ಅವಂತಿ	2/2	1/1	OK
@@ -118,8 +113,9 @@ Badami	ಬಾದಾಮಿ	5/5	3/3	OK
 Baluchistan	ಬಲೂಚಿಸ್ತಾನ	1/1	1/1	OK
 Banavasi	ಬನವಾಸಿ	2/2	4/4	OK
 Bangalore (Bengaluru)	ಬೆಂಗಳೂರು	1/1	3/3	OK
-Bangladesh	ಬಾಂಗ್ಲಾ	1/1	1/1	OK
+Bangladesh	ಬಾಂಗ್ಲಾದೇಶ	1/1	1/1	OK
 basadi	ಬಸದಿ	2/2	1/1	OK
+Basavapurana	ಬಸವಪುರಾಣ	1/1	2/2	OK
 Basaveshwara	ಬಸವೇಶ್ವರ	1/1	1/1	OK
 basin	ಜಲಾನಯನ ಪ್ರದೇಶ	1/1	1/1	OK
 bead-making	ಮಣಿ	1/1	1/1	OK
@@ -135,6 +131,8 @@ Bharuch	ಭರೂಚ್	1/1	2/2	OK
 Bhavabhuti	ಭವಭೂತಿ	1/1	1/1	OK
 Bidar	ಬೀದರ್	1/1	2/2	OK
 Bihar	ಬಿಹಾರ	6/6	4/4	OK
+Bijapur	ಬಿಜಾಪುರ	5/5	4/4	OK
+biography	ಜೀವನ ಚರಿತ್ರೆ	2/2	2/2	OK
 Brahmagiri	ಬ್ರಹ್ಮಗಿರಿ	1/1	1/1	OK
 Brahmanas (texts)	ಬ್ರಾಹ್ಮಣ	3/3	2/2	OK
 bricks	ಇಟ್ಟಿಗೆ	1/1	2/2	OK
@@ -198,8 +196,8 @@ empire	ಸಾಮ್ರಾಜ್ಯ	12/12	10/10	OK
 enlightenment	ಜ್ಞಾನೋದಯ	1/1	1/1	OK
 epic	ಮಹಾಕಾವ್ಯ	1/1	2/2	OK
 Exam Fact:	ಪರೀಕ್ಷಾ ಸಂಗತಿ:	100/100	100/100	OK
-Fatehpur Sikri	ಫತೇಪುರ	1/1	2/2	OK
-Firuz Shah Tughlaq	ಫಿರೋಜ್	1/1	1/1	OK
+Fatehpur Sikri	ಫತೇಪುರ್ ಸಿಕ್ರಿ	1/1	2/2	OK
+Firuz Shah Tughlaq	ಫಿರೋಜ್‌ಷಾ ತುಘಲಕ್	1/1	1/1	OK
 fort	ಕೋಟೆ	4/4	9/9	OK
 founder	ಸ್ಥಾಪಕ	9/9	5/5	OK
 founder (of a dynasty)	ಸ್ಥಾಪಕ	9/9	5/5	OK
@@ -215,7 +213,7 @@ garbhagriha	ಗರ್ಭಗೃಹ	1/1	3/3	OK
 Garuda	ಗರುಡ	3/3	1/1	OK
 Garuda (Rashtrakuta emblem)	ಗರುಡ	3/3	1/1	OK
 gazetteer	ಗೆಜೆಟಿಯರ್	11/11	11/11	OK
-Ghiyasuddin Tughlaq	ಘಿಯಾಸುದ್ದೀನ್	1/1	3/3	OK
+Ghiyasuddin Tughlaq	ಘಿಯಾಸುದ್ದೀನ್ ತುಘಲಕ್	1/1	3/3	OK
 Gingee (Jinji)	ಜಿಂಜಿ	1/1	1/1	OK
 Gol Gumbaz	ಗೋಲ್‌ಗುಂಬಜ್	1/1	1/1	OK
 gold	ಚಿನ್ನ	6/6	3/3	OK
@@ -249,7 +247,7 @@ Hoysalas	ಹೊಯ್ಸಳರು	4/4	4/4	OK
 Humayun	ಹುಮಾಯೂನ್	3/3	1/1	OK
 Hyderabad	ಹೈದರಾಬಾದ್	1/1	1/1	OK
 Ibrahim Adil Shah II	ಎರಡನೆಯ ಇಬ್ರಾಹಿಂ ಆದಿಲ್‌ಷಾ	2/2	2/2	OK
-Ibrahim Lodi	ಲೋದಿ	1/1	1/1	OK
+Ibrahim Lodi	ಇಬ್ರಾಹಿಂ ಲೋದಿ	1/1	1/1	OK
 II PUC History, Ch 4.3, PDF p. 60	ದ್ವಿತೀಯ ಪಿಯುಸಿ ಇತಿಹಾಸ, ಅಧ್ಯಾಯ 4.3, PDF ಪು. 60	1/1	1/1	OK
 Iltutmish	ಇಲ್ತಮಶ್	2/2	2/2	OK
 implementing agency	ಅನುಷ್ಠಾನ ಸಂಸ್ಥೆ	1/1	1/1	OK
@@ -335,6 +333,7 @@ member	ಸದಸ್ಯ	2/2	1/1	OK
 merchant	ವ್ಯಾಪಾರಿ	2/2	3/3	OK
 Mesopotamia	ಮೆಸಪಟೊಮಿಯಾ	2/2	1/1	OK
 Mewar	ಮೇವಾರ	1/1	1/1	OK
+Middle Stone Age	ಮಧ್ಯಶಿಲಾಯುಗ	1/1	1/1	OK
 Ministry	ಸಚಿವಾಲಯ	4/4	3/3	OK
 Ministry of MSME	ಸೂಕ್ಷ್ಮ, ಸಣ್ಣ ಮತ್ತು ಮಧ್ಯಮ ಉದ್ದಿಮೆಗಳ ಸಚಿವಾಲಯ (MSME)	1/1	1/1	OK
 Mohanatarangini	ಮೋಹನತರಂಗಿಣಿ	1/1	1/1	OK
@@ -347,9 +346,9 @@ mosque	ಮಸೀದಿ	2/2	5/5	OK
 Mudrarakshasa	ಮುದ್ರಾರಾಕ್ಷಸ	2/2	1/1	OK
 Mughals	ಮೊಘಲರು	3/3	5/5	OK
 Muhammad Adil Shah	ಮಹಮ್ಮದ್ ಆದಿಲ್‌ಷಾ	1/1	1/1	OK
-Muhammad bin Tughlaq	ಬಿನ್ ತುಘಲಕ್	1/1	2/2	OK
+Muhammad bin Tughlaq	ಮಹಮ್ಮದ್ ಬಿನ್ ತುಘಲಕ್	1/1	2/2	OK
 Mukteshwara temple	ಮುಕ್ತೇಶ್ವರ	1/1	1/1	OK
-Mulk-e-Maidan	ಮುಲ್ಕ್	1/1	1/1	OK
+Mulk-e-Maidan	ಮುಲ್ಕ್-ಎ-ಮೈದಾನ್	1/1	1/1	OK
 Multan	ಮುಲ್ತಾನ್	2/2	1/1	OK
 Mumbai	ಮುಂಬೈ	1/1	1/1	OK
 Muslim	ಮುಸ್ಲಿಂ	1/1	4/4	OK
@@ -362,6 +361,7 @@ Nasik	ನಾಸಿಕ್	1/1	1/1	OK
 navaranga	ನವರಂಗ	1/1	1/1	OK
 navy	ನೌಕಾಪಡೆ	4/4	1/1	OK
 Neminatha	ನೇಮಿನಾಥ	1/1	2/2	OK
+Neolithic (New Stone Age)	ನವ ಶಿಲಾಯುಗ	1/1	1/1	OK
 New Delhi	ನವದೆಹಲಿ	4/4	7/7	OK
 numismatics	ನಾಣ್ಯಶಾಸ್ತ್ರ	1/1	1/1	OK
 Odisha	ಒಡಿಶಾ	2/2	1/1	OK
@@ -476,6 +476,7 @@ temple	ದೇವಾಲಯ	12/12	12/12	OK
 terracotta	ಸುಟ್ಟ ಮಣ್ಣಿನ (ಟೆರಾಕೋಟಾ)	1/1	2/2	OK
 Thailand	ಥೈಲ್ಯಾಂಡ್	1/1	1/1	OK
 Thanjavur	ತಂಜಾವೂರು	3/3	2/2	OK
+The statement is false, so it is the answer.	ಈ ಹೇಳಿಕೆ ತಪ್ಪು, ಆದ್ದರಿಂದ ಇದೇ ಉತ್ತರ.	2/2	1/1	OK
 This statement is correct, so it is not the answer.	ಈ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ, ಆದ್ದರಿಂದ ಇದು ಉತ್ತರವಲ್ಲ.	4/4	1/1	OK
 Tirthankara	ತೀರ್ಥಂಕರ	1/1	3/3	OK
 torana	ತೋರಣ	1/1	1/1	OK
@@ -510,7 +511,6 @@ Vijaya Vitthala temple	ವಿಜಯ ವಿಠಲಸ್ವಾಮಿ ದೇವಾ�
 Vijayanagara	ವಿಜಯನಗರ	13/13	10/10	OK
 Vijayanagara empire	ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ	3/3	2/2	OK
 Vijayapura	ವಿಜಯಪುರ	4/4	5/5	OK
-Vijayapura (Bijapur)	ವಿಜಯಪುರ	4/4	5/5	OK
 Vikramaditya	ವಿಕ್ರಮಾದಿತ್ಯ	4/4	3/3	OK
 Vikramaditya VI	ಆರನೆಯ ವಿಕ್ರಮಾದಿತ್ಯ	4/4	1/1	OK
 Vikramashila	ವಿಕ್ರಮಶಿಲಾ	1/1	1/1	OK
@@ -527,6 +527,7 @@ Vitthala (deity)	ವಿಠಲ	1/1	1/1	OK
 Vitthala temple	ವಿಠಲ	1/1	1/1	OK
 West Bengal	ಪಶ್ಚಿಮ ಬಂಗಾಳ	1/1	1/1	OK
 wheat	ಗೋಧಿ	1/1	1/1	OK
+Which of the statements given above are correct?	ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುವು ಸರಿಯಾಗಿವೆ?	9/9	8/8	OK
 William Jones	ವಿಲಿಯಂ ಜೋನ್ಸ್	1/1	1/1	OK
 Wodeyars	ಒಡೆಯರು	2/2	2/2	OK
 Wodeyars of Mysore	ಮೈಸೂರು ಒಡೆಯರು	1/1	1/1	OK

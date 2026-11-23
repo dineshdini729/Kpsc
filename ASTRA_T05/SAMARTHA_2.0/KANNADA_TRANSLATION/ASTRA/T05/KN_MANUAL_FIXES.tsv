@@ -1,0 +1,40 @@
+id	field	old	new	reason
+T05-AM-FDA-G05	kn_sol	ಕಂಬಗಳ ಮೇಲ್ಭಾಗದ ಆಧಾರಗಳಲ್ಲಿ	ಕಂಬಗಳ ಆಧಾರಪಟ್ಟಿಗಳಲ್ಲಿ	settled term (§517): pillar brackets = ಕಂಬಗಳ ಆಧಾರಪಟ್ಟಿಗಳು (re-uses the glossary's "bracket figure"); FDA b02 already uses it
+T05-AM-FDA-G31	kn_sol	ಅವನು ರಾಷ್ಟ್ರಕೂಟರ ಸಾಮಂತನಾಗಿದ್ದನು.	ಅವನು ರಾಷ್ಟ್ರಕೂಟರ ಸಾಮಂತ ರಾಜನಾಗಿದ್ದನು.	glossary: tributary king = ಸಾಮಂತ ರಾಜ (section C rule 1: re-use the glossary form; NEW_TERMS_04's bare ಸಾಮಂತ not adopted)
+T05-AM-FDA-G16	kn_text	b) ಬಹಾರ್ ಖಾನ್	b) ಬಹಾರ್‌ಖಾನ್	glossary form ಬಹಾರ್‌ಖಾನ್, as in the solution (H: one form per name); replaces the skipped back-check rows S5/S10
+MP09-Q028	kn_text	ದರ್ಬಾರ್ ಸಭಾಂಗಣವಾಗಿ	ಸಭಾಮಂಟಪವಾಗಿ	settled term (§517): audience hall = ಸಭಾಮಂಟಪ (new-term CONFLICT; tie went to the FDA form)
+MP09-Q028	kn_sol	ಅದರ ದರ್ಬಾರ್ ಸಭಾಂಗಣಕ್ಕೆ	ಅದರ ಸಭಾಮಂಟಪಕ್ಕೆ	settled term (§517): audience hall = ಸಭಾಮಂಟಪ
+MP01-Q045	kn_sol	‘ಪರ್ಯಾಯದ್ವೀಪದ ಒಡೆಯ’	‘ಪರ್ಯಾಯ ದ್ವೀಪದ ಒಡೆಯ’	settled term (§517): Lord of the Peninsula = ಪರ್ಯಾಯ ದ್ವೀಪದ ಒಡೆಯ (new-term CONFLICT; spaced form has most batches)
+T05-AM-SDA-G42	kn_sol	"ಸಿದ್ದರಾಮ ಪುರಾಣ"	"ಸಿದ್ದರಾಮಪುರಾಣ"	settled term (§517): Siddharamapurana = ಸಿದ್ದರಾಮಪುರಾಣ, joined as the §516 ಬಸವಪುರಾಣ row
+MP05-Q056	kn_sol	'ಬಸವ ಪುರಾಣ'ವನ್ನು	'ಬಸವಪುರಾಣ'ವನ್ನು	adopted term (§516): Basavapurana = ಬಸವಪುರಾಣ (joined)
+T05-AM-SDA-G34	kn_sol	"ಬಸವ ಪುರಾಣ"ವನ್ನು	"ಬಸವಪುರಾಣ"ವನ್ನು	adopted term (§516): Basavapurana = ಬಸವಪುರಾಣ (joined)
+T05-CA-SDA-S05	kn_sol	ಕೆವಾಡಿಯಾದ	ಕೆವಡಿಯಾದ	settled term (§517): one spelling of Kevadia in both papers, ಕೆವಡಿಯಾ as in FDA Q80
+T05-AM-SDA-G21	kn_sol	ಬುಲಂದ್ ದರ್ವಾಜಾ	ಬುಲಂದ್ ದರ್ವಾಜ	settled term (§517): Buland Darwaza = ಬುಲಂದ್ ದರ್ವಾಜ, one spelling of "darwaza" with the glossary's ಅಲಾಯಿ ದರ್ವಾಜ
+T05-CA-SDA-S04	kn_sol	ನ್ನು (PIB, 22 ಸೆಪ್ಟೆಂಬರ್ 2026)	ನ್ನು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 22 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S13	kn_sol	ವುದು (PIB, 15 ಸೆಪ್ಟೆಂಬರ್ 2026)	ವುದು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 15 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S08	kn_sol	(PIB, 11–12 ಸೆಪ್ಟೆಂಬರ್ 2026)	(PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 11–12 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S02	kn_sol	ೋಜನೆ (PIB, 18 ಸೆಪ್ಟೆಂಬರ್ 2026)	ೋಜನೆ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 18 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S05	kn_sol	ರಾಜ್ ಅವರಿಗಲ್ಲ, ಅನಂತ್ ನಾಗ್ ಅವರಿಗೆ ಸಂದಿತು (PIB, 16 ಮತ್ತು 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	ರಾಜ್ ಅವರಿಗಲ್ಲ, ಅನಂತ್ ನಾಗ್ ಅವರಿಗೆ ಸಂದಿತು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 16 ಮತ್ತು 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S11	kn_sol	ESDM (PIB, 10 ಸೆಪ್ಟೆಂಬರ್ 2026)	ESDM (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 10 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S21	kn_sol	ನ)** (PIB, 24 ಸೆಪ್ಟೆಂಬರ್ 2026)	ನ)** (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 24 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S03	kn_sol	ಲಾಖೆ ಆರಂಭಿಸಿತು (PIB, 27 ಮತ್ತು 28 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಲಾಖೆ ಆರಂಭಿಸಿತು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 27 ಮತ್ತು 28 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S18	kn_sol	ಷರಾಗಿ ಅಧಿಕಾರ ವಹಿಸಿಕೊಂಡರು (PIB, 9 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಷರಾಗಿ ಅಧಿಕಾರ ವಹಿಸಿಕೊಂಡರು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 9 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S06	kn_sol	ಅಲ್ಲ, **ಭೂ ಸಾಹಸಕ್ಕಾಗಿ** ಪ್ರಶಸ್ತಿ ಪಡೆದರು (PIB, 2 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಅಲ್ಲ, **ಭೂ ಸಾಹಸಕ್ಕಾಗಿ** ಪ್ರಶಸ್ತಿ ಪಡೆದರು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 2 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S15	kn_sol	ೆಳ್ಳಿ ಪದಕ (PIB, 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	ೆಳ್ಳಿ ಪದಕ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S10	kn_sol	ಲಿದೆ (PIB, 16 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಲಿದೆ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 16 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S22	kn_sol	 ಇವೆ (PIB, 7 ಸೆಪ್ಟೆಂಬರ್ 2026)	 ಇವೆ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 7 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S09	kn_sol	ತ್ತು (PIB, 27 ಸೆಪ್ಟೆಂಬರ್ 2026)	ತ್ತು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 27 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S01	kn_sol	ತೆಗೆ (PIB, 15 ಸೆಪ್ಟೆಂಬರ್ 2026)	ತೆಗೆ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 15 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S07	kn_sol	ಕಾಗಿ (PIB, 13 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಕಾಗಿ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 13 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S24	kn_sol	ಿದರು (PIB, 3 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಿದರು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 3 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S25	kn_sol	ಲಾಗುತ್ತದೆ (PIB, 1 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಲಾಗುತ್ತದೆ (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 1 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S12	kn_sol	ಿದರು (PIB, 27 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಿದರು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 27 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S20	kn_sol	ವೆ** (PIB, 30 ಸೆಪ್ಟೆಂಬರ್ 2026)	ವೆ** (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 30 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S14	kn_sol	ಿ ನಡೆಯಿತು (PIB, 8 ಮತ್ತು 23–25 ಸೆಪ್ಟೆಂಬರ್ 2026)	ಿ ನಡೆಯಿತು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 8 ಮತ್ತು 23–25 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S23	kn_sol	ವುದು (PIB, 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	ವುದು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 20 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+T05-CA-SDA-S19	kn_sol	ನೇಮಿಸಿದರು (PIB, 8 ಸೆಪ್ಟೆಂಬರ್ 2026)	ನೇಮಿಸಿದರು (PIB (ಪತ್ರಿಕಾ ಮಾಹಿತಿ ಕಚೇರಿ), 8 ಸೆಪ್ಟೆಂಬರ್ 2026)	H (§516): expand PIB at the first citation of each SDA Q76–100 solution, as FDA does
+MP01-Q041	kn_sol	ಜೀವನಚರಿತ್ರೆಯಾದ	ಜೀವನ ಚರಿತ್ರೆಯಾದ	cross-paper FLAG (G): glossary biography = ಜೀವನ ಚರಿತ್ರೆ, as SDA writes it
+T05-AM-FDA-G02	kn_text	ಮಧ್ಯ ಶಿಲಾಯುಗ	ಮಧ್ಯಶಿಲಾಯುಗ	cross-paper FLAG (G): glossary Middle Stone Age = ಮಧ್ಯಶಿಲಾಯುಗ, as SDA writes it
+T05-AM-FDA-G02	kn_sol	ಮಧ್ಯ ಶಿಲಾಯುಗ	ಮಧ್ಯಶಿಲಾಯುಗ	cross-paper FLAG (G): glossary Middle Stone Age = ಮಧ್ಯಶಿಲಾಯುಗ, as SDA writes it
+T05-AM-SDA-G04	kn_sol	ನವಶಿಲಾಯುಗದ	ನವ ಶಿಲಾಯುಗದ	cross-paper FLAG (G): glossary Neolithic (New Stone Age) = ನವ ಶಿಲಾಯುಗ, as FDA writes it
+T05-AM-FDA-G31	kn_sol	ಈ ಹೇಳಿಕೆ ತಪ್ಪು; ಆದ್ದರಿಂದ ಇದೇ ಉತ್ತರ.	ಈ ಹೇಳಿಕೆ ತಪ್ಪು, ಆದ್ದರಿಂದ ಇದೇ ಉತ್ತರ.	cross-paper FLAG (G): the FIXED glossary line "The statement is false, so it is the answer."
